@@ -1,0 +1,19 @@
+{% extends 'edunet/index.html' %}
+
+{% block title %} Department List {% endblock %}
+
+{% block header %} Department List View {% endblock %}
+
+{% block body %}
+            
+    {% if departments %}
+        <ul>
+            {% for department in departments %}
+                <li><a href="{% url 'edunet:course_list' department.department_slug %}">{{ department.department_name }}</a></li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No departments available.</p>
+    {% endif %}
+
+{% endblock %}

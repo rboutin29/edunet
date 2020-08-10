@@ -1,0 +1,25 @@
+{% extends 'edunet/index.html' %}
+
+{% block title %} Course List {% endblock %}
+
+{% block header %} Course List View {% endblock %}
+
+{% block body %}
+
+    <h3>{{ department.department_name }}</h3>
+
+    <ul>
+        {% for course in courses %}
+            <li><a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">{{ course.course_name }}</a></li>
+        {% endfor %}
+    </ul>
+
+{% endblock %}
+
+{% block links %}
+    <div>
+        <a href="{% url 'edunet:index' %}">Home</a>
+        <a href="{% url 'edunet:departments' %}">Departments</a>
+        <a href="{% url 'edunet:course_list' department.department_slug %}">Course list</a>
+    </div>
+{% endblock %}

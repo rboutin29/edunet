@@ -1,0 +1,127 @@
+[
+{
+    "model": "edunet.department",
+    "pk": 1,
+    "fields": {
+        "department_name": "African American Studies",
+        "department_slug": "african-american-studies"
+    }
+},
+{
+    "model": "edunet.department",
+    "pk": 2,
+    "fields": {
+        "department_name": "Economics",
+        "department_slug": "economics"
+    }
+},
+{
+    "model": "edunet.department",
+    "pk": 3,
+    "fields": {
+        "department_name": "American Studies",
+        "department_slug": "american-studies"
+    }
+},
+{
+    "model": "edunet.department",
+    "pk": 4,
+    "fields": {
+        "department_name": "History",
+        "department_slug": "history"
+    }
+},
+{
+    "model": "edunet.course",
+    "pk": 1,
+    "fields": {
+        "course_name": "African American History: From Emancipation to the Present",
+        "course_number": "AFAM 162",
+        "course_season": "Spring 2010",
+        "course_url": "https://oyc.yale.edu/african-american-studies/afam-162",
+        "course_description": "The purpose of this course is to examine the African American experience in the United States from 1863 to the present. Prominent themes include the end of the Civil War and the beginning of Reconstruction; African Americans\u2019 urbanization experiences; the development of the modern civil rights movement and its aftermath; and the thought and leadership of Booker T. Washington, Ida B. Wells-Barnett, W.E.B. Du Bois, Marcus Garvey, Martin Luther King Jr., and Malcolm X.",
+        "course_slug": "african-american-history-from-emancipation-to-the-present"
+    }
+},
+{
+    "model": "edunet.course",
+    "pk": 2,
+    "fields": {
+        "course_name": "Financial Markets (2008)",
+        "course_number": "ECON 252",
+        "course_season": "Spring 2008",
+        "course_url": "https://oyc.yale.edu/economics/econ-252-08",
+        "course_description": "Financial institutions are a pillar of civilized society, supporting people in their productive ventures and managing the economic risks they take on. The workings of these institutions are important to comprehend if we are to predict their actions today and their evolution in the coming information age. The course strives to offer understanding of the theory of finance and its relation to the history, strengths and imperfections of such institutions as banking, insurance, securities, futures, and other derivatives markets, and the future of these institutions over the next century.",
+        "course_slug": "financial-markets-2008"
+    }
+},
+{
+    "model": "edunet.course",
+    "pk": 3,
+    "fields": {
+        "course_name": "Financial Markets (2011)",
+        "course_number": "ECON 252",
+        "course_season": "Spring 2011",
+        "course_url": "https://oyc.yale.edu/economics/econ-252",
+        "course_description": "An overview of the ideas, methods, and institutions that permit human society to manage risks and foster enterprise. Description of practices today and analysis of prospects for the future. Introduction to risk management and behavioral finance principles to understand the functioning of securities, insurance, and banking industries.",
+        "course_slug": "financial-markets-2011"
+    }
+},
+{
+    "model": "edunet.course",
+    "pk": 4,
+    "fields": {
+        "course_name": "Financial Theory",
+        "course_number": "ECON 251",
+        "course_season": "Fall 2009",
+        "course_url": "https://oyc.yale.edu/economics/econ-251",
+        "course_description": "This course attempts to explain the role and the importance of the financial system in the global economy. Rather than separating off the financial world from the rest of the economy, financial equilibrium is studied as an extension of economic equilibrium. The course also gives a picture of the kind of thinking and analysis done by hedge funds.",
+        "course_slug": "financial-theory"
+    }
+},
+{
+    "model": "edunet.course",
+    "pk": 5,
+    "fields": {
+        "course_name": "Game Theory",
+        "course_number": "ECON 159",
+        "course_season": "Fall 2007",
+        "course_url": "https://oyc.yale.edu/economics/econ-159",
+        "course_description": "This course attempts to explain the role and the importance of the financial system in the global economy. Rather than separating off the financial world from the rest of the economy, financial equilibrium is studied as an extension of economic equilibrium. The course also gives a picture of the kind of thinking and analysis done by hedge funds.",
+        "course_slug": "game-theory"
+    }
+},
+{
+    "model": "edunet.course",
+    "pk": 6,
+    "fields": {
+        "course_name": "Hemingway, Fitzgerald, Faulkner",
+        "course_number": "AMST 246",
+        "course_season": "Fall 2011",
+        "course_url": "https://oyc.yale.edu/american-studies/amst-246",
+        "course_description": "This course examines major works by Hemingway, Fitzgerald, and Faulkner, exploring their interconnections on three analytic scales: the macro history of the United States and the world; the formal and stylistic innovations of modernism; and the small details of sensory input and psychic life.",
+        "course_slug": "hemingway-fitzgerald-faulkner"
+    }
+},
+{
+    "model": "edunet.course",
+    "pk": 7,
+    "fields": {
+        "course_name": "The Early Middle Ages, 284-1000",
+        "course_number": "HIST 210",
+        "course_season": "Fall 2011",
+        "course_url": "https://oyc.yale.edu/history/hist-210",
+        "course_description": "Major developments in the political, social, and religious history of Western Europe from the accession of Diocletian to the feudal transformation. Topics include the conversion of Europe to Christianity, the fall of the Roman Empire, the rise of Islam and the Arabs, the \u201cDark Ages,\u201d Charlemagne and the Carolingian renaissance, and the Viking and Hungarian invasions.",
+        "course_slug": "the-early-middle-ages-284-1000"
+    }
+},
+{
+    "model": "edunet.treeofknowledge",
+    "pk": 23,
+    "fields": {
+        "course": 1,
+        "transcript_num": 1,
+        "tree_of_knowledge": "{'transcript01:history \\n': '1', \"--------1 paragraph: b']' \\n\": '2', \"--------2 paragraph: b'holloway' \\n\": '3', \"--------3 paragraph: b'july' \\n\": '4', \"--------4 paragraph: b'things' \\n\": '5', \"--------5 paragraph: b'student' \\n\": '6', \"--------6 paragraph: b'camera' \\n\": '7', \"--------7 paragraph: b'studies' \\n\": '8', \"--------8 paragraph: b'class' \\n\": '9', \"--------9 paragraph: b'way' \\n\": '10', \"--------10 paragraph: b']' \\n\": '11', \"--------11 paragraph: b'class' \\n\": '12', \"--------12 paragraph: b'years' \\n\": '13', \"--------13 paragraph: b'something' \\n\": '14', \"--------14 paragraph: b'jack' \\n\": '15', \"--------15 paragraph: b'story' \\n\": '16', \"--------16 paragraph: b'kings' \\n\": '17', \"--------17 paragraph: b'god' \\n\": '18', \"--------18 paragraph: b'new' \\n\": '19', \"--------19 paragraph: b'time' \\n\": '20', \"--------20 paragraph: b'slaves' \\n\": '21', \"--------21 paragraph: b'freedom' \\n\": '22', \"--------22 paragraph: b'citizenship' \\n\": '23', \"--------23 paragraph: b'john' \\n\": '24', \"--------24 paragraph: b'cards' \\n\": '25', \"--------25 paragraph: b'womanhood' \\n\": '26', \"--------26 paragraph: b'experience' \\n\": '27', \"--------27 paragraph: b'struggle' \\n\": '28', \"--------28 paragraph: b'women' \\n\": '29', \"--------29 paragraph: b'history' \\n\": '30', \"--------30 paragraph: b'state' \\n\": '31', \"--------31 paragraph: b'history' \\n\": '32', \"--------32 paragraph: b'class' \\n\": '33', \"--------33 paragraph: b'obama' \\n\": '34', \"--------34 paragraph: b'collection' \\n\": '35', \"--------35 paragraph: b'calhoun' \\n\": '36', \"--------36 paragraph: b'rigors' \\n\": '37', \"--------37 paragraph: b'today' \\n\": '38', \"--------38 paragraph: b'year' \\n\": '39', \"--------39 paragraph: b'year' \\n\": '40', \"--------40 paragraph: b'year' \\n\": '41', \"--------41 paragraph: b'people' \\n\": '42', \"--------42 paragraph: b'trethewey' \\n\": '43', \"--------43 paragraph: b'textbook' \\n\": '44', \"--------44 paragraph: b'care' \\n\": '45', \"--------45 paragraph: b'hand' \\n\": '46', \"--------46 paragraph: b'test' \\n\": '47', \"--------47 paragraph: b'teacher' \\n\": '48', \"--------48 paragraph: b'mouth' \": '49'}"
+    }
+}
+]
