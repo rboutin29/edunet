@@ -2,8 +2,6 @@
 Contains utility helper functions for the views.
 
 Functions:
-    get_department(department_slug)
-        returns abbrievation of department used for URLs
     get_course_link(course)
         returns course URL used to download course
     get_course_number_link_format(course)
@@ -12,14 +10,22 @@ Functions:
         returns tree of knowledge dictionary
     get_tree_of_knowledge(course, transcript)
         returns tree of knowledge for a particular course transcript
-    get_dict(unconverted_list)
-        returns dictionary converted to display the files in a directory
-    get_transcripts(course)
-        returns all the tree of knowledge files for a particular course
     save_tree_to_database(course, transcript)
         saves a specific tree of knowledge for a course transcript to the administrator database
         in the form of a dictionary, the tree is also saved in a folder as a text file
-
+    get_transcript_num(course):
+        helps validate_transcript_num by getting processed transcripts
+    validate_transcript_num(value, course):
+        doesn't allow a user to enter a transcript that doesn't exist in the retrieve tree of
+        knowledge form
+    build_tree_of_knowledge_dictionary(new_tok, metadata, lst):
+        helps retrieve_tree_of_knowledge by building a new dictionary with desired keywords
+        per paragraph and lecture to be displayed
+    retrieve_tree_of_knowledge(kpp, kpl, transcript, course):
+        retrives a tree of knowledge based on user inputted keywords per paragraph,
+        keywords per lecture, transcript number, and course
+    process_courses(course):
+        processes every lecture in a course with 10 keywords per lecture and paragraph
 '''
 import os
 import glob
@@ -27,28 +33,14 @@ import glob
 from ..models import TreeOfKnowledge
 from .course_processor import course_processor
 
-def get_department(department_slug):
-    '''
-    Function takes the slug of the department name,
-    returns abbrievation of department that is used for the URL that links to the Yale website.
-    '''
-    department = 'No department abbreviation found.'
-    if (department_slug == 'economics') is True:
-        department = 'ECON'
-    elif (department_slug == 'african-american-studies') is True:
-        department = 'AFAM'
-    elif (department_slug == 'american-studies') is True:
-        department = 'AMST'
-    elif (department_slug == 'history') is True:
-        department = 'HIST'
-    else:
-        print("Could not map department to a course abbrievation.")
-    return department
-
 def get_course_number_link_format(course):
     '''Function takes course and returns the course number in a format suitable for a link.'''
-    course_number_upper = course.course_number.replace(' ', '') # remove spaces
-    course_number = course_number_upper.lower() # lowercase number for link
+    # Handle exception for Chemistry I
+    if course.course_number == 'CHEM 125a':
+        course_number = 'chem125'
+    else:
+        course_number_upper = course.course_number.replace(' ', '') # remove spaces
+        course_number = course_number_upper.lower() # lowercase number for link
     return course_number
 
 def get_course_link(course):
@@ -60,8 +52,14 @@ def get_course_link(course):
     course_season = (semester[0] + year).lower() # lower case season for the link
     course_number = get_course_number_link_format(course)
 
-    # Build link
-    link = start_of_link + course_season + '/' + course_number + '/download/' + course_number + '.zip' # pylint: disable=line-too-long
+    # Handle exception for Financial Theory 2011 zip file link
+    if course.course_number == 'ECON 252' and course.course_season == 'Spring 2011':
+        course_number2 = 'econ252_11'
+        link = start_of_link + course_season + '/' + course_number + '/download/' + course_number2 + '.zip' # pylint: disable=line-too-long
+    else:
+        # Build link
+        link = start_of_link + course_season + '/' + course_number + '/download/' + course_number + '.zip' # pylint: disable=line-too-long
+
     return link
 
 def get_tree_dict(tree_list):
@@ -110,8 +108,10 @@ def get_transcript_num(course):
     transcripts_dir_path = "**\\transcripts"
     course_number = get_course_number_link_format(course)
     course_transcripts_path = os.path.join(course_dir_path, course_number, transcripts_dir_path)
+    # The first index of the list is the path we need
     course_transcripts_path_list = glob.glob(course_transcripts_path, recursive=True)
-    course_transcripts = os.listdir(course_transcripts_path_list[0])
+    # Don't add hidden files such as .DS_Store
+    course_transcripts = glob.glob(os.path.join(course_transcripts_path_list[0], '*'))
     return len(course_transcripts)
 
 def validate_transcript_num(value, course):
@@ -169,7 +169,9 @@ def process_courses(course):
     kpp = 10
     course_processor(link, kpl, kpp)
     transcipt_num = get_transcript_num(course)
+    print('Total transcripts: ' + str(transcipt_num))
     i = 1
     while i <= transcipt_num:
+        print("Saving lecture " + str(i))
         save_tree_to_database(course, i)
         i += 1

@@ -20,7 +20,9 @@ from . import views
 app_name = 'edunet'
 urlpatterns = [
     path('', views.IndexView.as_view(), name='index'),
-    path('signup/', views.SignUp.as_view(), name='signup'),
+    path('admin-help/', views.AdminHelpView.as_view(), name='admin_help'),
+    path('student-help/', views.StudentHelpView.as_view(), name='student_help'),
+    path('signup/', views.SignUpView.as_view(), name='signup'),
     path('search/', views.SearchResultsView.as_view(), name='search_results'),
     path('departments/', views.DepartmentListView.as_view(), name='departments'),
     path('<slug:department_slug>/', views.course_list, name='course_list'),
@@ -28,6 +30,4 @@ urlpatterns = [
     path('<slug:department_slug>/<slug:course_slug>/course-processor', views.course_processor, name='course_processor'), # pylint: disable=line-too-long
     path('<slug:department_slug>/<slug:course_slug>/form/', views.tk_form, name='tk_form'),
     path('<slug:department_slug>/<slug:course_slug>/<int:transcript_num>/', views.tk_view, name='tk_view'), # pylint: disable=line-too-long,
-    #path('<slug:department_slug>/<slug:course_slug>/<int:transcript_num>/basic', views.tk_basic_view, name='tk_basic_view'), # pylint: disable=line-too-long,
-    #path('<slug:department_slug>/<slug:course_slug>/<int:transcript_num>/user-input', views.tk_user_input_view, name='tk_user_input_view'), # pylint: disable=line-too-long
 ]

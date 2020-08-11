@@ -13,6 +13,7 @@ from autoslug import AutoSlugField
 class Department(models.Model):
     '''Class model used for the departments within the Yale website.'''
     department_name = models.CharField(max_length=50)
+    department_abbreviation = models.CharField(max_length=10, default='Department Abbrievation')
     department_slug = AutoSlugField(
         populate_from='department_name',
         unique=True, editable=True,

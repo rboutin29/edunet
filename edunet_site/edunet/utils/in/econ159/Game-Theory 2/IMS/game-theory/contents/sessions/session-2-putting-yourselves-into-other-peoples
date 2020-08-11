@@ -1,0 +1,62 @@
+
+
+
+
+<div id="fileContents">
+<h2>ECON 159: <strong>Game Theory</strong> </h2>
+<table id="lectureHeader" summary="lecture header" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="510" nowrap="nowrap">
+			<span id="lectureNum">Lecture 2 - </span>
+			<span id="lectureName">Putting yourselves into other people's shoes</span></td>
+		<td width="248" id="lectureNav" nowrap="nowrap">
+			<span id="backNav"><a href="lecture01.html">&lt;&lt; previous session</a></span>
+			<span id="navPipe">|</span>
+			<span id="forwardNav"><a href="lecture03.html">next session &gt;&gt;</a></span>		</td>
+	</tr>
+</table>
+<div id="overviewBlock">
+	<h3>Overview:</h3>
+	<p>At the start of the lecture, we introduce the "formal ingredients" of a game: the players, their strategies and their payoffs. Then we return to the main lessons from last time: not playing a dominated strategy; and putting ourselves into others' shoes. We apply these first to defending the Roman Empire against Hannibal; and then to picking a number in the game from last time. We learn that, when you put yourself in someone else's shoes, you should consider not only their goals, but also how sophisticated are they (are they rational?), and how much do they know about you (do they know that you are rational?).  We introduce a new idea: the iterative deletion of dominated strategies.  Finally, we discuss the difference between something being known and it being commonly known.</p>
+</div>
+<div id="readingBlock">
+	<h3>Reading assignment:</h3>
+	<p><em>Strategies and Games: Theory And Practice</em>. (Dutta): Chapter 2, Section 3; Chapters 3-4</p>
+	<p><em>Strategy: An Introduction to Game Theory</em>. (Watson): Chapters 6-8 </p>
+	<p><em>Thinking Strategically</em>. (Dixit and Nalebuff): Chapter 3, Sections 1-3 </p>
+</div>
+<div id="lectureBlock">
+	<h3>Class lecture:</h3>
+	<table id="lectureTable2" summary="media elements" border="0" cellpadding="0" cellspacing="0">
+    	<tbody>
+        	<tr>
+				<td class="left">
+					<img class="lectureTableImage" alt="Transcript" src="/yale/portal_skins/custom/images/transcript.gif" />
+					<div class="lectureTableContents"><a href="../transcripts/transcript02.html"><img class="lectureTableContentImage" align="middle" alt="html" src="/yale/portal_skins/custom/images/html_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/html_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/html_off.gif');" /></a></div>
+				</td>
+				<td class="middle">
+					<img class="lectureTableImage" alt="Audio" src="/yale/portal_skins/custom/images/audio.gif" />
+					<div class="lectureTableContents"><a href="javascript:openAudioWindow('/courses/fall07/econ159/mp3/econ159_02_091007.mp3');"><img class="lectureTableContentImage" align="middle" alt="mp3" src="/yale/portal_skins/custom/images/mp3_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/mp3_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/mp3_off.gif');" /></a></div>
+				</td>
+				<td class="right">
+					<img class="lectureTableImage" alt="Video" src="/yale/portal_skins/custom/images/video.gif" />
+					
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowMEDIUM('/courses/fall07/econ159/flash/econ159_02_091007.flv');"><img class="lectureTableContentImage" align="middle" alt="medium bandwidth" src="/yale/portal_skins/custom/images/vid_med_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_med_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_med_off.gif');" /></a>
+					</div>
+					<img id="quicktimeVideoHeader" src="/yale/portal_skins/custom/images/quicktime_options_header.gif" />
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowSMALL('/courses/fall07/econ159/du/econ159_02_091007_REF.mov');"><img class="lectureTableContentImage" align="middle" alt="low bandwidth" src="/yale/portal_skins/custom/images/vid_low_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_low_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_low_off.gif');" /></a>
+					</div>
+					<div class="lectureTableContents">
+					    <a href="javascript:openVideoWindowLARGE('/courses/fall07/econ159/mov/econ159_02_091007.mov');"><img class="lectureTableContentImage" align="middle" alt="high bandwidth" src="/yale/portal_skins/custom/images/vid_high_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_high_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_high_off.gif');" /></a>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+
+<form name="video_info"><input type="hidden" name="title" value="ECON 159 - Lecture 2 - Prof. Ben Polak"></form>
+

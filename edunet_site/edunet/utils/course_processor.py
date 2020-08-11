@@ -110,7 +110,7 @@ def course_processor(link, keywords_paragraph, keywords_lecture, transcript=None
             f = open(file, "w")
             f.write("\n" + self.name + ":")
             for k in self.lecture_keywords:
-                f.write(str(k) + " ")
+                f.write(str(k.encode('utf-8', errors='ignore')) + " ")
             for paragraph in self.lecture_keywords_per_paragraph.keys():
                 f.write("\n--------" + str(paragraph) + " paragraph: ")
                 for k in self.lecture_keywords_per_paragraph[paragraph]:

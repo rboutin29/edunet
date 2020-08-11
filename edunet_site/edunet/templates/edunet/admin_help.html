@@ -1,0 +1,69 @@
+{% extends 'edunet/index.html' %}
+
+{% block title %} Help {% endblock %}
+
+{% block header %} Help View {% endblock %}
+
+{% block body %}
+
+    <p>
+        Welcome to the help page. The administrative help page contains two categories useful for educational professors.
+        The department and course links. On the far right of these links the add button is available for both the department
+        and course links in order to add a department or course. Moreover, an individual can click on the link in order to
+        access the department or course administrative pages. These pages also have a link to add departments or course in the
+        top left above the list of currently available departments or courses. 
+
+        <br><br>
+
+        <strong>Department:</strong>
+        When adding a department, simply type the name of the desired department and then create a abbreviation, usually three
+        or four capitilized letters. The department slug is auto generated and used for the links on the website. Access to this
+        attribute is for the website developers.
+
+        <br><br>
+
+        <strong>Course:</strong>
+        When adding a course, type the course name and again, the course slug will be auto generated. Next, add the course number
+        with the proper department abbreviation preceding it. For example, the course, American Revolution with a number of 116
+        would have the course number HIST 116 because the course is in the history department. The course season is simply when
+        they course was taught so users have an idea if these courses are outdated. The course URL is there for courses
+        that are available in other locations on the web. To continue with the American Revolution example, this course is 
+        available on the Yale free online cours website so the course URL links this website with the Yale website. For the course
+        description, just give a brief summary.
+
+        <br><br>
+
+        <strong>Course File Structure:</strong>
+        Perhaps the most important is the course file structure, if the files do not adhere to the guidelines then the website
+        will not be able to process the course transcripts. The structure is as follows:
+        <ul>
+            <li>Folder Name: hist116</li>
+            <ul>
+                <li>Folder Name: content</li>
+                <ul>
+                    <li>Folder Name: resources</li>
+                    <ul>
+                        <li>All pdfs containing additonal resources for each lecture.</li>
+                    </ul>
+                    <li>Folder Name: sessions</li>
+                    <ul>
+                        <li>All files containing overview information for each lecture.</li>
+                    </ul>
+                    <li>Folder Name: transcripts</li>
+                    <ul>
+                        <li>All transcript files for each lecture.</li>
+                    </ul>
+                    <li>sessions.html</li>
+                    <li>syllabus.html</li>
+                    <li>terms-of-use.html</li>
+                </ul>
+                <li>start.html</li>
+            </ul>
+        </ul>
+
+        The transcript folder can be nested within other folders but it must exist with the transcript information. Administrators
+        have freedom to organize the folders differently, but lectures are processed most efficiently if the folders adhere to
+        this structure and do not have the transcript folder nested deepers.
+    </p>
+
+{% endblock %}

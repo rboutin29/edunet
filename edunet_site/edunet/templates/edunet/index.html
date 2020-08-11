@@ -14,16 +14,18 @@
         {% block search %}
             {% if user.is_authenticated %}
                 <form action="{% url 'edunet:search_results' %}" method="GET">
-                    <input name="search_query" type="text" placeholder="Search...">
+                    <input name="search_query" type="text" placeholder="Search Courses...">
                 </form>
             {% endif %}
         {% endblock %}
 
         {% block body %}
             {% if user.is_authenticated %}
-                <p>Welcome to EduNet {{ user.username }} where studying is not only productive, but it's fun.</p>
+                <p>Welcome to EduNet {{ user.username }} where studying is not only productive, but fun.</p>
                 <a href="{% url 'logout' %}">logout</a>
                 <a href="{% url 'password_reset' %}">reset password</a>
+                <a href="{% url 'edunet:admin_help' %}">admin help</a>
+                <a href="{% url 'edunet:student_help' %}">student help</a>
             {% else %}
                 <p>You are not logged in.</p>
                 <p>

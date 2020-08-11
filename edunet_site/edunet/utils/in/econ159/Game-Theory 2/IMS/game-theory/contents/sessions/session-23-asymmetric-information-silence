@@ -1,0 +1,61 @@
+
+
+
+
+<div id="fileContents">
+<h2>ECON 159: <strong>Game Theory</strong> </h2>
+<table id="lectureHeader" summary="lecture header" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="510" nowrap="nowrap">
+			<span id="lectureNum">Lecture 23 - </span>
+			<span id="lectureName">Asymmetric information: silence, signaling and suffering <div id="secondHeaderLine">education</div></span></td>
+		<td width="248" id="lectureNav" nowrap="nowrap">
+			<span id="backNav"><a href="lecture22.html">&lt;&lt; previous session</a></span>
+			<span id="navPipe">|</span>
+			<span id="forwardNav"><a href="lecture24.html">next session &gt;&gt;</a></span>		</td>
+	</tr>
+</table>
+<div id="overviewBlock">
+	<h3>Overview:</h3>
+	<p>We look at two settings with asymmetric information; one side of a game knows something that the other side does not. We should always interpret attempts to communicate or signal such information taking into account the incentives of the person doing the signaling. In the first setting, information is verifiable.  Here, the failure explicitly to reveal information can be informative, and hence verifiable information tends to come out even when you don't want it to. We consider examples of such information unraveling. Then we move to unverifiable information. Here, it is hard to convey such information even if you want to.  Nevertheless, differentially costly signals can sometimes provide incentives for agents with different information to distinguish themselves. In particular, we consider how the education system can allow future workers to signal their abilities. We discuss some implications of this rather pessimistic view of education.</p>
+</div>
+<div id="readingBlock">
+	<h3>Reading assignment:</h3>
+	<p><em>Strategies and Games: Theory And Practice</em>. (Dutta): Chapters 19-21</p>
+	<p><em>Strategy: An Introduction to Game Theory</em>. (Watson): Chapters 24, 29 </p>
+</div>
+<div id="lectureBlock">
+	<h3>Class lecture:</h3>
+	<table id="lectureTable2" summary="media elements" border="0" cellpadding="0" cellspacing="0">
+    	<tbody>
+        	<tr>
+				<td class="left">
+					<img class="lectureTableImage" alt="Transcript" src="/yale/portal_skins/custom/images/transcript.gif" />
+					<div class="lectureTableContents"><a href="../transcripts/transcript23.html"><img class="lectureTableContentImage" align="middle" alt="html" src="/yale/portal_skins/custom/images/html_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/html_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/html_off.gif');" /></a></div>
+				</td>
+				<td class="middle">
+					<img class="lectureTableImage" alt="Audio" src="/yale/portal_skins/custom/images/audio.gif" />
+					<div class="lectureTableContents"><a href="javascript:openAudioWindow('/courses/fall07/econ159/mp3/econ159_23_120307.mp3');"><img class="lectureTableContentImage" align="middle" alt="mp3" src="/yale/portal_skins/custom/images/mp3_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/mp3_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/mp3_off.gif');" /></a></div>
+				</td>
+				<td class="right">
+					<img class="lectureTableImage" alt="Video" src="/yale/portal_skins/custom/images/video.gif" />
+					
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowMEDIUM('/courses/fall07/econ159/flash/econ159_23_120307.flv');"><img class="lectureTableContentImage" align="middle" alt="medium bandwidth" src="/yale/portal_skins/custom/images/vid_med_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_med_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_med_off.gif');" /></a>
+					</div>
+					<img id="quicktimeVideoHeader" src="/yale/portal_skins/custom/images/quicktime_options_header.gif" />
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowSMALL('/courses/fall07/econ159/du/econ159_23_120307_REF.mov');"><img class="lectureTableContentImage" align="middle" alt="low bandwidth" src="/yale/portal_skins/custom/images/vid_low_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_low_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_low_off.gif');" /></a>
+					</div>
+					<div class="lectureTableContents">
+					    <a href="javascript:openVideoWindowLARGE('/courses/fall07/econ159/mov/econ159_23_120307.mov');"><img class="lectureTableContentImage" align="middle" alt="high bandwidth" src="/yale/portal_skins/custom/images/vid_high_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_high_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_high_off.gif');" /></a>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+
+<form name="video_info"><input type="hidden" name="title" value="ECON 159 - Lecture 23 - Prof. Ben Polak"></form>
+

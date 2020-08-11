@@ -8,11 +8,15 @@
 
     <h3>{{ department.department_name }}</h3>
 
-    <ul>
-        {% for course in courses %}
-            <li><a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">{{ course.course_name }}</a></li>
-        {% endfor %}
-    </ul>
+    {% if courses %}
+        <ul>
+            {% for course in courses %}
+                <li><a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">{{ course.course_name }}</a></li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>There are no available course for this department.</p>
+    {% endif %}
 
 {% endblock %}
 

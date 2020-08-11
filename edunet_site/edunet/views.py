@@ -3,9 +3,11 @@ Contains all the views for the edunet website.
 
 CLASSES:
     IndexView(generic.TemplateView)
+    AdminHelpView(generic.TemplateView)
+    StudentHelpView(generic.TemplateView)
     SearchResultsView(generic.ListView)
     DepartmentListView(generic.ListView)
-    SignUp(generic.CreateView)
+    SignUpView(generic.CreateView)
 
 FUNCTIONS:
     courseList(request, department_slug)
@@ -32,7 +34,15 @@ from .utils import utils
 from .forms import TKForm
 from .models import Department, Course, TreeOfKnowledge
 
-class SignUp(generic.CreateView):
+class AdminHelpView(generic.TemplateView):
+    '''Class used to display admin the help page.'''
+    template_name = 'edunet/admin_help.html'
+
+class StudentHelpView(generic.TemplateView):
+    '''Class used to display the student help page.'''
+    template_name = 'edunet/student_help.html'
+
+class SignUpView(generic.CreateView):
     '''Class allows for a user to signup for EduNet.'''
     form_class = UserCreationForm
     success_url = reverse_lazy('login')
@@ -62,17 +72,16 @@ class DepartmentListView(generic.ListView): # pylint: disable=too-many-ancestors
     model = Department
     slug_url_kwarg = 'department_slug' # slug to reference for URL (value after ':')
     slug_field = 'slug' # match slug used in model
-
-    def get_context_data(self, **kwargs):
-        '''Functions takes itself and kwargs and returns all available instances of itself.'''
-        context = super().get_context_data(**kwargs)
-        return context
+    queryset = Department.objects.order_by('department_name')
 
 def course_list(request, department_slug):
     '''Function used to display a list of courses based on a particular department.'''
     department_object = Department.objects.get(department_slug=department_slug)
-    department_symbol = utils.get_department(department_slug)
-    objects = Course.objects.filter(Q(course_number__icontains=department_symbol))
+    # Filter courses if course number contains department abbreviation
+    objects_unfiltered = Course.objects.filter(
+        Q(course_number__icontains=department_object.department_abbreviation)
+    )
+    objects = objects_unfiltered.order_by('course_name')
 
     request.session.set_test_cookie() # test cookies
 
