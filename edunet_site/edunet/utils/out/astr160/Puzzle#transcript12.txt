@@ -1,0 +1,7 @@
+-6:
+b'coordinates'##up#up## b'*'#down#down#down## b'rs'#up#down#up## b'*'#down#down#down## b'amount'#up#down#down## b'orbit'#up#up### 
+b'*'##up#down#down# b'events'#up#up#down#up# b'interval'#up#up#up#up# b'points'#down#up#up#up# b'x'#down#down#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'distance'#up#up#up#down# b'space'#down#up#up#down# b'\xce\xb4'#down#up#up#up# b'c2'#down#down##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'time'#up#down#up#down# b'way'#down#up#down#down# b'radius'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'relativity'#up#down#down#up# b'so'#up#up#up#up# b'things'#down#up#up#down# b'presence'#down#up##down# 
+b'*'###down#up# b'schwarzschild'#up##down#up# b'something'#up##down#up# b'term'#up##up#down# b'thing'#down##up#down# b'point'#down###down# 

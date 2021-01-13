@@ -1,0 +1,7 @@
+-6:
+b'class'##up#up## b'kind'#down#up#up## b'*'#down#down#down## b'minutes'#up#up#up## b'*'#down#down#down## b'notation'#up#up### 
+b'*'##up#down#down# b'thing'#up#up#down#down# b'classes'#up#up#down#up# b'so'#up#up#up#down# b'something'#down#up#up#up# b'numbers'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'times'#up#up#up#down# b'things'#down#up#up#down# b'time'#down#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'problem'#up#up#down#down# b'equation'#up#up#down#down# b'information'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'star'#up#down#down#up# b'question'#up#up#down#down# b'way'#up#up#down#down# b'mass'#up#up##down# 
+b'*'###down#up# b'units'#up##up#up# b'distance'#down##down#up# b'moon'#up##up#down# b'*'#down##down#down# b'm'#up###down# 

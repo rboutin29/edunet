@@ -1,0 +1,102 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    
+    <script type="text/javascript">
+		function makeItSafe(path){var safePath=escape(path);safePath=safePath.replace(/\+/g,"%2B");safePath=safePath.replace(/\//g,"%2F");return safePath}
+		function openVideoWindowLARGE(path){var winTitle=document.video_info.title.value;var url='http://openmedia.yale.edu/projects/media_viewer/video_viewer2.php?window_size=large&type=mov&title='+makeItSafe(winTitle)+'&path='+makeItSafe(path);window.open(url,'large','HEIGHT=425,WIDTH=700,toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,scrollbars=no')}
+		function openVideoWindowMEDIUM(path){var winTitle=document.video_info.title.value;path=path.replace(".flv","");var url='http://openmedia.yale.edu/projects/media_viewer/video_viewer2.php?window_size=medium&type=flv&title='+makeItSafe(winTitle)+'&path='+makeItSafe(path);window.open(url,'medium','HEIGHT=350,WIDTH=570,toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,scrollbars=no')}
+		function openVideoWindowSMALL(path){var winTitle=document.video_info.title.value;var url='http://openmedia.yale.edu/projects/media_viewer/video_viewer2.php?window_size=small&type=mov&title='+makeItSafe(winTitle)+'&path='+makeItSafe(path);window.open(url,'small','HEIGHT=240,WIDTH=400,toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,scrollbars=no')}
+		function openAudioWindow(path){var winTitle=document.video_info.title.value;var url='http://openmedia.yale.edu/projects/media_viewer/video_viewer2.php?window_size=audio&type=mp3&title='+makeItSafe(winTitle)+'&path='+makeItSafe(path);window.open(url,'audio','HEIGHT=200,WIDTH=550,toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,scrollbars=no')}
+		function changeImage(theImage,changeTo){theImage.src=changeTo}
+    </script>
+
+	<style>
+		img {
+			border: none;
+		}
+		td {
+			vertical-align: top;
+		}
+	</style>
+
+  </head>
+  <body>
+<h1>Open Yale Courses</h1>
+<div id="fileContents">
+<h2>ECON 251: <strong>Financial Theory</strong> </h2>
+<table id="lectureHeader" summary="lecture header" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="510" nowrap="nowrap">
+			<span id="lectureNum">Lecture 15 - </span>
+			<span id="lectureName">Uncertainty and the Rational Expectations Hypothesis: Applications to</span>
+<div id="secondHeaderLine">Predicting Stock Prices, Default Probabilities, and  Hyperbolic Discounting</div>
+</td>
+		<td width="248" id="lectureNav" nowrap="nowrap">
+			<span id="backNav"><a href="lecture14.html">&lt;&lt; previous session</a></span>
+			<span id="navPipe">|</span>
+			<span id="forwardNav"><a href="lecture16.html">next session &gt;&gt;</a></span>		</td>
+	</tr>
+</table>
+<div id="overviewBlock">
+	<h3>Overview:</h3>
+	<p>According to the rational expectations hypothesis, traders know the probabilities of future events, and value uncertain future payoffs by discounting their expected value at the riskless rate of interest.  Under this hypothesis the best predictor of a firm's valuation in the future is its stock price today.  In one famous test of this hypothesis, it was found that detailed weather forecasts could not be used to improve on contemporaneous orange prices as a predictor of future orange prices, but that orange prices could improve contemporaneous weather forecasts.  Under the rational expectations hypothesis you can infer more about the odds of corporate or sovereign bonds defaulting by looking at their prices than by reading about the financial condition of their issuers.</p>
+<p>On the other hand, when discount rates rather than payoffs are uncertain, today's one year rate grossly overestimates the long run annualized rate.  If today's one year interest rate is 4%, and if the one year interest rate follows a geometric random walk, then the value today of one dollar in T years is described in the long run by the hyperbolic function 1/ 	&radic;T, which is much larger than the exponential function 1/(1.04)<sup>T</sup>, no matter what the constant K.  Hyperbolic discounting is the term used to describe the tendency of animals and humans to value the distant future much more than would be implied by (exponentially) discounting at a constant rate such as 4%.  Hyperbolic discounting can justify expenses taken today to improve the environment in 500 years that could not be justified under exponential discounting.
+</p>
+</div>
+<div id="readingBlock">
+	<h3>Reading assignment:</h3>
+	<p>None assigned</p>
+</div>
+<div id="lectureBlock">
+	<h3>Class lecture:</h3>
+	<table id="lectureTable2" summary="media elements" border="0" cellpadding="0" cellspacing="0">
+    	<tbody>
+        	<tr>
+				<td class="left">
+					<img class="lectureTableImage" alt="Transcript" src="images/transcript.gif" />
+					<div class="lectureTableContents"><a href="../transcripts/transcript15.html"><img class="lectureTableContentImage" align="middle" alt="html" src="images/html_off.gif" onmouseover="changeImage(this, 
+'images/html_over.gif');" onmouseout="changeImage(this, 
+'images/html_off.gif');" /></a></div>
+				</td>
+				<td class="middle">
+					<img class="lectureTableImage" alt="Audio" src="images/audio.gif" />
+					<div class="lectureTableContents"><a href="javascript:openAudioWindow('/courses/fall09/econ251/mp3/econ251_15_102709.mp3');"><img class="lectureTableContentImage" align="middle" alt="mp3" src="images/mp3_off.gif" onmouseover="changeImage(this, 
+'images/mp3_over.gif');" onmouseout="changeImage(this, 
+'images/mp3_off.gif');" /></a></div>
+				</td>
+				<td class="right">
+					<img class="lectureTableImage" alt="Video" src="images/video.gif" />
+					
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowMEDIUM('/courses/fall09/econ251/flash/econ251_15_102709.flv');"><img class="lectureTableContentImage" align="middle" alt="medium bandwidth" src="images/vid_med_off.gif" onmouseover="changeImage(this, 
+'images/vid_med_over.gif');" onmouseout="changeImage(this, 
+'images/vid_med_off.gif');" /></a>
+					</div>
+					<img id="quicktimeVideoHeader" src="images/quicktime_options_header.gif" />
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowSMALL('/courses/fall09/econ251/du/econ251_15_102709_REF.mov');"><img class="lectureTableContentImage" align="middle" alt="low bandwidth" src="images/vid_low_off.gif" onmouseover="changeImage(this, 
+'images/vid_low_over.gif');" onmouseout="changeImage(this, 
+'images/vid_low_off.gif');" /></a>
+					</div>
+					<div class="lectureTableContents">
+					    <a href="javascript:openVideoWindowLARGE('/courses/fall09/econ251/mov/econ251_15_102709.mov');"><img class="lectureTableContentImage" align="middle" alt="high bandwidth" src="images/vid_high_off.gif" onmouseover="changeImage(this, 
+'images/vid_high_over.gif');" onmouseout="changeImage(this, 
+'images/vid_high_off.gif');" /></a>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+
+
+<form name="video_info"><input type="hidden" name="title" value="ECON 251 - Lecture 15 - Prof. John Geanakoplos"></form>
+
+</div>

@@ -1,0 +1,60 @@
+
+
+
+
+<div id="fileContents">
+<h2>ENGL 291: <strong>The American Novel Since 1945</strong> </h2>
+<table id="lectureHeader" summary="lecture header" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="510" nowrap="nowrap">
+			<span id="lectureNum">Lecture 13 - </span>
+			<span id="lectureName">Toni Morrison, <em>The Bluest Eye</em></span></td>
+		<td width="248" id="lectureNav" nowrap="nowrap">
+			<span id="backNav"><a href="lecture12.html">&lt;&lt; previous session</a></span>
+			<span id="navPipe">|</span>
+			<span id="forwardNav"><a href="lecture14.html">next session &gt;&gt;</a></span>		</td>
+	</tr>
+</table>
+<div id="overviewBlock">
+	<h3>Overview:</h3>
+	<p>Professor Hungerford draws a contrast between Toni Morrison and most of the writers studied up to this point in the course by pointing out how, for an African-American woman writer in particular, language is a site of violence. For all of her power to recuperate the voices of the oppressed, the novelist must be wary of the ways that breaking the silence, too, can constitute an act of invasion. As in the case of Pynchon, the word in <em>The Bluest Eye</em> enacts a near-physical touch; this is its pleasure and its danger. With inimitable complexity and grace, Morrison weaves her narrative around a young black girl who, in the void of her social persona, constructs a beautiful and poisonous fiction.</p>
+</div>
+<div id="readingBlock">
+	<h3>Reading assignment:</h3>
+	<p>Toni Morrison, <em>The Bluest Eye</em> (1970)</p>
+</div>
+<div id="lectureBlock">
+	<h3>Class lecture:</h3>
+	<table id="lectureTable2" summary="media elements" border="0" cellpadding="0" cellspacing="0">
+    	<tbody>
+        	<tr>
+				<td class="left">
+					<img class="lectureTableImage" alt="Transcript" src="/yale/portal_skins/custom/images/transcript.gif" />
+					<div class="lectureTableContents"><a href="../transcripts/transcript13.html"><img class="lectureTableContentImage" align="middle" alt="html" src="/yale/portal_skins/custom/images/html_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/html_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/html_off.gif');" /></a></div>
+				</td>
+				<td class="middle">
+					<img class="lectureTableImage" alt="Audio" src="/yale/portal_skins/custom/images/audio.gif" />
+					<div class="lectureTableContents"><a href="javascript:openAudioWindow('/courses/spring08/engl291/mp3/engl291_13_022508.mp3');"><img class="lectureTableContentImage" align="middle" alt="mp3" src="/yale/portal_skins/custom/images/mp3_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/mp3_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/mp3_off.gif');" /></a></div>
+				</td>
+				<td class="right">
+					<img class="lectureTableImage" alt="Video" src="/yale/portal_skins/custom/images/video.gif" />
+					
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowMEDIUM('/courses/spring08/engl291/flash/engl291_13_022508.flv');"><img class="lectureTableContentImage" align="middle" alt="medium bandwidth" src="/yale/portal_skins/custom/images/vid_med_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_med_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_med_off.gif');" /></a>
+					</div>
+					<img id="quicktimeVideoHeader" src="/yale/portal_skins/custom/images/quicktime_options_header.gif" />
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowSMALL('/courses/spring08/engl291/du/engl291_13_022508_REF.mov');"><img class="lectureTableContentImage" align="middle" alt="low bandwidth" src="/yale/portal_skins/custom/images/vid_low_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_low_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_low_off.gif');" /></a>
+					</div>
+					<div class="lectureTableContents">
+					    <a href="javascript:openVideoWindowLARGE('/courses/spring08/engl291/mov/engl291_13_022508.mov');"><img class="lectureTableContentImage" align="middle" alt="high bandwidth" src="/yale/portal_skins/custom/images/vid_high_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_high_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_high_off.gif');" /></a>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+
+<form name="video_info"><input type="hidden" name="title" value="ENGL 291 - Lecture 13 - Prof. Amy Hungerford"></form>
+

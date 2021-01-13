@@ -1,0 +1,7 @@
+-6:
+b'case'##up#up## b'*'#down#down#down## b'jupiter'#up#up#down## b'hot'#up#down#up## b'*'#down#down#down## b'so'#up#up### 
+b'*'##up#down#down# b'pluto'#up#up#down#up# b'orbit'#up#up#up#down# b'kind'#down#up#down#up# b'data'#up#up#up#up# b'fact'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'planet'#up#up#up#down# b'star'#down#up#up#down# b'stars'#down#up#up#down# b'periods'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'things'#up#up#up#down# b'planets'#down#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'thing'#up#up#up#up# b'velocity'#down#up#down#down# b'way'#up#up#down#down# b'class'#up#down##up# 
+b'*'###down#up# b'wavelengths'#up##up#up# b'*'#down##down#down# b'something'#up##up#down# b'points'#down##up#down# b'point'#down###up# 

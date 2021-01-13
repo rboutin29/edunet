@@ -1,0 +1,7 @@
+Faulkner's The Sound and the Fury, Part II-6:
+b'kind'##up#up## b'tragedy'#down#down#up## b'*'#down#down#down## b'story'#up#down#up## b'*'#down#down#down## b'beginning'#up#up### 
+b'*'##up#down#down# b'sister'#up#up#down#up# b'part'#up#up#up#up# b'so'#down#down#up#up# b'sense'#down#up#down#up# b'day'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'caddy'#up#up#up#down# b'benjy'#down#up#up#up# b'luster'#down#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'quentin'#up#down#up#down# b'future'#down#up#up#down# b'someone'#down#down##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'faulkner'#up#down#up#up# b'way'#down#up#down#up# b'something'#up#up#down#down# b'\xe2\x80\x9d'#up#up##up# 
+b'*'###down#up# b'word'#up##up#up# b'tomorrow'#down##up#up# b'race'#down##up#down# b'*'#down##down#down# b'moment'#up###down# 

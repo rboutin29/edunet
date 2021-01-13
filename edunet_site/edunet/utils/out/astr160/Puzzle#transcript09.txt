@@ -1,0 +1,7 @@
+-6:
+b'bailyn'##up#up## b'ah'#down#up#up## b'question'#down#up#down## b'yes'#up#down#down## b'energy'#up#up#down## b'stars'#up#up### 
+b'*'##up#down#down# b'so'#up#up#up#down# b'something'#down#up#up#down# b'point'#down#up#up#up# b'space'#down#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'mass'#up#up#up#down# b'universe'#down#up#up#down# b'way'#down#down#up#down# b'planets'#down#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'time'#up#up#up#down# b'kind'#down#down#down#up# b'sun'#up#up##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'things'#up#down#up#up# b'event'#down#up#down#down# b'hole'#up#up#down#up# b'student'#up#up##down# 
+b'*'###down#up# b'holes'#up##up#up# b'course'#down##down#up# b'horizon'#up##up#down# b'velocity'#down##up#down# b'speed'#down###down# 

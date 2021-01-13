@@ -1,0 +1,24 @@
+{% extends 'edunet/base.html' %}
+
+{% block title %} Course Processor {% endblock %}
+
+{% block nav %}
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'edunet:course_list' department.department_slug %}">{{ department.department_name }}</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">{{ course.course_number }}</a>
+</li>
+{% endblock %}
+
+{% block header %} <h3>Course Processor View</h3> {% endblock %}
+
+{% block body %}
+
+    <p>
+        {{ course.course_name }} has been sucessfully processed. 
+        Click <a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">here</a> 
+        to return to the course detail page.
+    </p>
+
+{% endblock %}

@@ -1,0 +1,7 @@
+-6:
+b'disc'##up#up## b'front'#down#up#up## b'*'#down#down#down## b'method'#up#up#up## b'people'#down#down#up## b'space'#down#down### 
+b'*'##up#down#down# b'center'#up#up#up#down# b'sort'#down#down#up#up# b'cluster'#down#up#up#down# b'stars'#down#up#down#up# b'clusters'#up#up##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'planets'#up#up#down#up# b'planet'#up#up#up#down# b'transits'#down#up#up#down# b'kind'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'star'#up#up#down#down# b'velocity'#up#down#down#down# b'thing'#up#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'way'#up#down#up#up# b'something'#down#up#up#down# b'system'#down#down#up#up# b'orbits'#down#up##up# 
+b'*'###down#up# b'time'#up##down#up# b'jupiter'#up##down#up# b'idea'#up##up#down# b'migration'#down##down#up# b'point'#up###down# 

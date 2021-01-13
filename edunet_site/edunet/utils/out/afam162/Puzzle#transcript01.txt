@@ -1,0 +1,7 @@
+Dawn of Freedom-6:
+b'fact'##up#down## b'slaves'#up#down#up## b'*'#down#down#down## b'emancipation'#up#up#up## b'*'#down#down#down## b'money'#up#down### 
+b'*'##up#down#down# b'people'#up#up#down#up# b'ways'#up#up#down#up# b'today'#up#up#up#down# b'confederate'#down#down#up#up# b'states'#down#up##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'class'#up#up#up#down# b'course'#down#down#down#down# b'stories'#up#up#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'history'#up#down#up#up# b'*'#down#down#down#down# b'college'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'john'#up#down#down#up# b'years'#up#down#down#up# b'day'#up#up#up#up# b'master'#down#up##down# 
+b'*'###down#up# b'freedom'#up##up#up# b'slavery'#down##up#up# b'citizenship'#down##up#up# b'*'#down##down#down# b'calhoun'#up###down# 

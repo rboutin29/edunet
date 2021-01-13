@@ -1,0 +1,61 @@
+
+
+
+
+<div id="fileContents">
+<h2>ECON 159: <strong>Game Theory</strong> </h2>
+<table id="lectureHeader" summary="lecture header" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="510" nowrap="nowrap">
+			<span id="lectureNum">Lecture 21 - </span>
+			<span id="lectureName">Repeated games: cooperation vs. the end game</span></td>
+		<td width="248" id="lectureNav" nowrap="nowrap">
+			<span id="backNav"><a href="lecture20.html">&lt;&lt; previous session</a></span>
+			<span id="navPipe">|</span>
+			<span id="forwardNav"><a href="lecture22.html">next session &gt;&gt;</a></span>		</td>
+	</tr>
+</table>
+<div id="overviewBlock">
+	<h3>Overview:</h3>
+	<p>We discuss repeated games, aiming to unpack the intuition that the promise of rewards and the threat of punishment in the future of a relationship can provide incentives for good behavior today.  In class, we play prisoners' dilemma twice and three times, but this fails to sustain cooperation. The problem is that, in the last stage, since there is then is future, there is no incentive to cooperate, and hence the incentives unravel from the back.  We related this to the real-world problems of a lame duck leader and of maintaining incentives for those close to retirement. But it is possible to sustain good behavior in early stages of some repeated games (even if they are only played a few times) provided the stage games have two or more equilibria to be used as rewards and punishments. This may require us to play bad equilibria tomorrow. We relate this to the trade off between <i>ex ante</i> and <i>ex post</i> efficiency in the law. Finally, we play a game in which the players do not know when the game will end, and we start to consider strategies for this potentially infinitely repeated game.</p>
+</div>
+<div id="readingBlock">
+	<h3>Reading assignment:</h3>
+	<p><em>Strategies and Games: Theory And Practice</em>. (Dutta): Chapters 14-18</p>
+	<p><em>Strategy: An Introduction to Game Theory</em>. (Watson): Chapters 22-23 </p>
+</div>
+<div id="lectureBlock">
+	<h3>Class lecture:</h3>
+	<table id="lectureTable2" summary="media elements" border="0" cellpadding="0" cellspacing="0">
+    	<tbody>
+        	<tr>
+				<td class="left">
+					<img class="lectureTableImage" alt="Transcript" src="/yale/portal_skins/custom/images/transcript.gif" />
+					<div class="lectureTableContents"><a href="../transcripts/transcript21.html"><img class="lectureTableContentImage" align="middle" alt="html" src="/yale/portal_skins/custom/images/html_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/html_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/html_off.gif');" /></a></div>
+				</td>
+				<td class="middle">
+					<img class="lectureTableImage" alt="Audio" src="/yale/portal_skins/custom/images/audio.gif" />
+					<div class="lectureTableContents"><a href="javascript:openAudioWindow('/courses/fall07/econ159/mp3/econ159_21_112607.mp3');"><img class="lectureTableContentImage" align="middle" alt="mp3" src="/yale/portal_skins/custom/images/mp3_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/mp3_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/mp3_off.gif');" /></a></div>
+				</td>
+				<td class="right">
+					<img class="lectureTableImage" alt="Video" src="/yale/portal_skins/custom/images/video.gif" />
+					
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowMEDIUM('/courses/fall07/econ159/flash/econ159_21_112607.flv');"><img class="lectureTableContentImage" align="middle" alt="medium bandwidth" src="/yale/portal_skins/custom/images/vid_med_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_med_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_med_off.gif');" /></a>
+					</div>
+					<img id="quicktimeVideoHeader" src="/yale/portal_skins/custom/images/quicktime_options_header.gif" />
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowSMALL('/courses/fall07/econ159/du/econ159_21_112607_REF.mov');"><img class="lectureTableContentImage" align="middle" alt="low bandwidth" src="/yale/portal_skins/custom/images/vid_low_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_low_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_low_off.gif');" /></a>
+					</div>
+					<div class="lectureTableContents">
+					    <a href="javascript:openVideoWindowLARGE('/courses/fall07/econ159/mov/econ159_21_112607.mov');"><img class="lectureTableContentImage" align="middle" alt="high bandwidth" src="/yale/portal_skins/custom/images/vid_high_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_high_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_high_off.gif');" /></a>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+
+<form name="video_info"><input type="hidden" name="title" value="ECON 159 - Lecture 21 - Prof. Ben Polak"></form>
+

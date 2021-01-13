@@ -1,0 +1,7 @@
+Faulkner's Light in August, Part II-6:
+b'man'##up#up## b'*'#down#down#down## b'someone'#up#down#down## b'things'#up#down#up## b'*'#down#down#down## b'malice'#up#down### 
+b'*'##up#down#down# b'moment'#up#up#up#up# b'violence'#down#up#down#up# b'action'#up#down#down#up# b'story'#up#down#up#up# b'sense'#down#down##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'faulkner'#up#up#up#down# b'kind'#down#down#down#up# b'lena'#up#down#up#up# b'relation'#down#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'people'#up#down#up#up# b'time'#down#down#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'hightower'#up#down#up#up# b'neighbors'#down#down#up#up# b'joanna'#down#up#up#up# b'burden'#down#down##up# 
+b'*'###down#up# b'town'#up##up#up# b'men'#down##down#up# b'night'#up##up#up# b'*'#down##down#down# b'way'#up###up# 

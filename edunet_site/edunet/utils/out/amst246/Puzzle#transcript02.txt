@@ -1,0 +1,7 @@
+Hemingway's In Our Time-6:
+b'someone'##up#up## b'*'#down#down#down## b'billy'#up#up#up## b'*'#down#down#down## b'way'#up#up#down## b'fight'#up#down### 
+b'*'##up#down#down# b'time'#up#up#up#up# b'*'#down#down#down#down# b'title'#up#down#up#up# b'story'#down#up#up#down# b'nick'#down#up##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'something'#up#up#up#up# b'hemingway'#down#up#down#up# b'camp'#up#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'pain'#up#up#down#down# b'phenomenon'#up#up#up#down# b'work'#down#down##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'doctor'#up#up#down#up# b'fact'#up#up#down#down# b'scream'#up#up#up#down# b'people'#down#down##up# 
+b'*'###down#up# b'kind'#up##up#up# b'*'#down##down#down# b'stories'#up##up#down# b'chapter'#down##down#down# b'violence'#up###up# 

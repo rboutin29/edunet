@@ -1,0 +1,65 @@
+{% extends 'edunet/base.html' %}
+
+{% load hitcount_tags %}
+
+{% block title %} {{ course.course_number }} {% endblock %}
+
+{% block nav %}
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'edunet:course_list' department.department_slug %}">{{ department.department_abbreviation }} Courses</a>
+</li>
+{% endblock %}
+
+{% block header %}<h2>Course Detail View</h2>{% endblock %}
+
+{% block body %}
+
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'edunet/tree-style.css' %}">
+
+    {% load static %}
+    <img src="{% static 'edunet/images/yale_logo.png' %}" alt="Yale Logo" width="15%">
+
+    <h6>Department: {{ department.department_name }}</h6> 
+    <h6>Course: {{ course.course_name }} {{ course.course_number }}</h6>
+
+    <p>{{ course.course_description }}</p>
+    <p><a href="{{ course.course_url }}">Click here to visit the course at the Yale website.</a></p>
+
+    {% if user.is_authenticated %}
+        {% if transcripts %}
+            <h5>Processed lectures for this course.</h5>
+            <ul class="myUL">
+                {% for number, title in transcripts.items %}
+                    <li><span class="box">Lecture: {{ number }} {{ title }}</span>
+                        <ul class="nested">
+                            <li><a href="{% url 'edunet:tk_view' department.department_slug course.course_slug number %}">Click to view Tree of Knowledge</a></li>
+                            <li><a href="{% url 'edunet:pz_view' department.department_slug course.course_slug number %}">Click to view Puzzle of Knowledge</a></li>
+                        </ul>
+                    </li>
+                {% endfor %}
+            </ul>
+            <p><a href="{% url 'edunet:tk_form' department.department_slug course.course_slug %}">Click here to submit a tree transcript form request with your desired keywords.</a></p>
+        {% else %}
+            <p>No processed lectures available</p>
+            <p><a href="{% url 'edunet:course_processor' department.department_slug course.course_slug %}">Click here to process courses, this may take a minute.</a></p>
+        {% endif %}
+    {% else %}
+        <p>Please <a href="{% url 'edunet:signup' %}">signup</a> or <a href="{% url 'login' %}">login</a> to use the EduNet features.</p>
+    {% endif %}
+
+    <p>Visits: {% get_hit_count for course %}</p>
+
+    <script>
+        var toggler = document.getElementsByClassName("box");
+        var i;
+        
+        for (i = 0; i < toggler.length; i++) {
+          toggler[i].addEventListener("click", function() {
+            this.parentElement.querySelector(".nested").classList.toggle("active");
+            this.classList.toggle("check-box");
+          });
+        }
+    </script>
+
+{% endblock %}

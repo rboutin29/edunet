@@ -1,0 +1,183 @@
+
+
+
+
+<div id="fileContents">
+<h2>CHEM 125: <strong>Freshman Organic Chemistry </strong> </h2>
+<h3 style="margin-bottom: -15px;">Class Sessions</h3>
+<p><em>Click session titles below to access audio, video, and course materials. </em></p>
+<table id="sessionsTable" cellpadding="0" border="0" summary="class sessions table">
+<tbody>
+
+
+<tr>
+<td><a href="sessions/lecture01.html">1. How Do You Know?</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture02.html">2. Force Laws, Lewis Structures and Resonance</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture03.html">3. Double Minima, Earnshaw's Theorem, and Plum-Puddings</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture04.html">4. Coping with Smallness and Scanning Probe Microscopy</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture05.html">5. X-Ray Diffraction</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture06.html">6. Seeing Bonds by Electron Difference Density</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture07.html">7. Quantum Mechanical Kinetic Energy</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture08.html">8. One-Dimensional Wave Functions</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture09.html">9. Chladni Figures and One-Electron Atoms</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture10.html">10. Reality and the Orbital Approximation</a></td>
+
+<tr>
+<td><a href="sessions/midtermexam1.html">Midterm Exam 1</a></td>
+</tr>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture11.html">11. Orbital Correction and Plum-Pudding Molecules</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture12.html">12. Overlap and Atom-Pair Bonds</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture13.html">13. Overlap and Energy-Match</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture14.html">14. Checking Hybridization Theory with XH<sub>3</sub></a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture15.html">15. Chemical Reactivity: SOMO, HOMO, and LUMO</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture16.html">16. Recognizing Functional Groups</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture17.html">17. Reaction Analogies and Carbonyl Reactivity</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture18.html">18. Amide, Carboxylic Acid and Alkyl Lithium</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture19.html">19. Oxygen and the Chemical Revolution (Beginning to 1789)</a></td>
+
+
+<tr>
+<td><a href="sessions/midtermexam2.html">Midterm Exam 2</a></td>
+</tr>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture20.html">20. Rise of the Atomic Theory (1790-1805)</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture21.html">21. Berzelius to Liebig and W&ouml;hler (1805-1832) </a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture22.html">22. Radical and Type Theories (1832-1850)</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture23.html">23. Valence Theory and Constitutional Structure (1858)</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture24.html">24. Determining Chemical Structure by Isomer Counting (1869)</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture25.html">25. Models in 3D Space (1869-1877); Optical Isomers</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture26.html">26. Van't Hoff's Tetrahedral Carbon and Chirality</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture27.html">27. Communicating Molecular Structure in Diagrams and Words</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture28.html">28. Stereochemical Nomenclature; Racemization and Resolution</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture29.html">29. Preparing Single Enantiomers and the Mechanism of Optical Rotation</a></td>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/midtermexam3.html">Midterm Exam 3</a></td>
+</tr>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture30.html">30. Esomeprazole as an Example of Drug Testing and Usage</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture31.html">31. Preparing Single Enantiomers and  Conformational Energy</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture32.html">32. Stereotopicity and Baeyer Strain Theory</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture33.html">33. Conformational Energy and Molecular Mechanics</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture34.html">34. Sharpless Oxidation Catalysts and the Conformation of Cycloalkanes</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture35.html">35. Understanding Molecular Structure and Energy through Standard Bonds</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/lecture36.html">36. Bond Energies, the Boltzmann Factor and Entropy</a></td>
+</tr>
+
+<tr>
+<td class="sessionsDarkRow"><a href="sessions/lecture37.html">37. Potential Energy Surfaces, Transition State Theory and Reaction Mechanism</a></td>
+</tr>
+
+<tr>
+<td><a href="sessions/finalexam.html">Final Exam</a></td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
+
+
