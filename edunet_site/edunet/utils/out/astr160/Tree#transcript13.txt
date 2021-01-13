@@ -1,5 +1,6 @@
 
-transcript13:object light schwarzschild student thing radius professor energy mass charles 
+transcript13-:
+--------Lecture: b'object' b'light' b'schwarzschild' b'student' b'thing' b'radius' b'professor' b'energy' b'mass' b'charles' 
 --------1 paragraph: b'things' b'ways' b'way' b'implications' b'course' b'section' b'part' b'culmination' b'sort' b'schwarzschild' 
 --------2 paragraph: b'radius' b'r' b'schwarzschild' b'mass' b'object' b'reason' b"it's" b'notation' b'anything' b'capital' 
 --------3 paragraph: b't' b'\xcf\x89' b'omega' b'thing' b'\xce\xb8' b'coordinate' b'r' b'number' b'c2' b'rs' 

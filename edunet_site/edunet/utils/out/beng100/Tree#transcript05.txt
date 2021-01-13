@@ -1,5 +1,6 @@
 
-transcript05:cells cell gene dna blood body tissue example viruses way 
+transcript05-:
+--------Lecture: b'cells' b'cell' b'gene' b'dna' b'blood' b'body' b'tissue' b'example' b'viruses' b'way' 
 --------1 paragraph: 
 --------2 paragraph: b'culture' b'cell' b'physiology' b'body' b'introduction' b'technology' b'cells' b'week' b'topic' b'mammals' 
 --------3 paragraph: b'cell' b'egg' b'dna' b'pronucleus' b'plasmid' b'slide' b'animals' b'class' b'genes' b'beginning' 

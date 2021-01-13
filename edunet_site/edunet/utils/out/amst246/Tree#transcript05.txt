@@ -1,5 +1,6 @@
 
-transcript05:gatsby daisy nick sound great voice fitzgerald moment tom so 
+transcript05-Fitzgerald's The Great Gatsby, Part II:
+--------Lecture: b'gatsby' b'daisy' b'nick' b'sound' b'great' b'voice' b'fitzgerald' b'moment' b'tom' b'so' 
 --------1 paragraph: b'gatsby' b'great' b'age' b'chapter' b'jazz' 
 --------2 paragraph: b'gatsby' b'car' b'race' b'great' b'reference' b'nick' b'allusions' b'woman' b'so' b'scene' 
 --------3 paragraph: b'age' b'essay' b'jazz' b'music' b'gatsby' b'great' b'echoes' b'miracles' b'art' b'excess' 

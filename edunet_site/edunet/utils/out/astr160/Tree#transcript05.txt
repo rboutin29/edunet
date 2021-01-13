@@ -1,5 +1,6 @@
 
-transcript05:things star planet thing velocity kind planets pluto way wavelengths 
+transcript05-:
+--------Lecture: b'things' b'star' b'planet' b'thing' b'velocity' b'kind' b'planets' b'pluto' b'way' b'wavelengths' 
 --------1 paragraph: b'comments' b'thing' b'pluto' b'couple' b'names' b'currents' b'consequences' b'planets' b'something' b'orbits' 
 --------2 paragraph: b'question' b'controversy' b'scientists' b'people' b'fuss' b'answers' b'meeting' b'problem' b'extent' b'confusion' 
 --------3 paragraph: b'classifications' b'question' b'point' b'issue' b'look' b'data' b'classification' b'things' b'controversy' b'case' 

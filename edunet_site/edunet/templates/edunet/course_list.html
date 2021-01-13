@@ -1,8 +1,8 @@
-{% extends 'edunet/index.html' %}
+{% extends 'edunet/base.html' %}
 
-{% block title %} Course List {% endblock %}
+{% block title %} {{ department.department_name }} Courses {% endblock %}
 
-{% block header %} Course List View {% endblock %}
+{% block header %} <h1>Course List View</h1> {% endblock %}
 
 {% block body %}
 
@@ -11,19 +11,11 @@
     {% if courses %}
         <ul>
             {% for course in courses %}
-                <li><a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">{{ course.course_name }}</a></li>
+                <li><a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">{{ course.course_name }} {{ course.course_number }}</a></li>
             {% endfor %}
         </ul>
     {% else %}
         <p>There are no available course for this department.</p>
     {% endif %}
 
-{% endblock %}
-
-{% block links %}
-    <div>
-        <a href="{% url 'edunet:index' %}">Home</a>
-        <a href="{% url 'edunet:departments' %}">Departments</a>
-        <a href="{% url 'edunet:course_list' department.department_slug %}">Course list</a>
-    </div>
 {% endblock %}

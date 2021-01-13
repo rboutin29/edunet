@@ -1,5 +1,6 @@
 
-transcript04:velocity things planets thing orbit motion meters star distance planet 
+transcript04-:
+--------Lecture: b'velocity' b'things' b'planets' b'thing' b'orbit' b'motion' b'meters' b'star' b'distance' b'planet' 
 --------1 paragraph: b'thing' b'objects' b'categories' b'system' b'observations' b'science' b'kind' b'interpretation' b'solar' b'show' 
 --------2 paragraph: b'things' b'classes' b'exceptions' b'kind' b'want' b'features' b'bunch' b'thing' b'classifications' 
 --------3 paragraph: b'way' b'orbit' b'things' b'features' b'gas' b'nothing' b'explanation' b'planets' b'plane' b'ice' 

@@ -1,0 +1,7 @@
+Introduction-6:
+b'life'##up#up## b'structure'#down#down#up## b'something'#down#up#up## b'*'#down#down#down## b'class'#up#up#up## b'writing'#down#up### 
+b'*'##up#down#down# b'irony'#up#up#up#up# b'*'#down#down#down#down# b'registering'#up#up#down#up# b'moment'#up#down#down#down# b'fact'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'hemingway'#up#up#up#up# b'world'#down#up#down#down# b'gatsby'#up#down#down#up# b'mind'#up#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'war'#up#up#up#down# b'great'#down#down#down#up# b'event'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'kind'#up#up#down#up# b'faulkner'#up#down#up#down# b'sense'#down#up#up#up# b'*'#down#down##down# 
+b'*'###down#up# b'benjy'#up##up#up# b'way'#down##down#down# b'scale'#up##up#up# b'*'#down##down#down# b'cuba'#up###up# 

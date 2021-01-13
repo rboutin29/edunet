@@ -1,5 +1,6 @@
 
-transcript19:force motion wings energy air speed ground hip order leg 
+transcript19-:
+--------Lecture: b'force' b'motion' b'wings' b'energy' b'air' b'speed' b'ground' b'hip' b'order' b'leg' 
 --------1 paragraph: b'materials' b'terms' b'tuesday' b'properties' b'elasticity' b'viscosity' b'viscoelasticity' b'something' b'basics' b'lot' 
 --------2 paragraph: b'biomechanics' b'role' b'part' b'conditions' b'machines' b'understand' b'humans' b'sort' b'world' b'laws' 
 --------3 paragraph: b'motion' b'organisms' b'bacteria' b'life' b'kind' b'walking' b'spot' b'move' b'time' b'things' 

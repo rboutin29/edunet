@@ -1,5 +1,6 @@
 
-transcript12:drug drugs time body concentration particles brain way polymer system 
+transcript12-:
+--------Lecture: b'drug' b'drugs' b'time' b'body' b'concentration' b'particles' b'brain' b'way' b'polymer' b'system' 
 --------1 paragraph: b'way' b'system' b'drug' b'delivery' b'things' b'evidence' b'class' b'engineering' b'description' b'represent' 
 --------2 paragraph: b'drugs' b'vessel' b'water' b'rate' b'body' b'volume' b'compartment' b'concentration' b'disappearance' b'elimination' 
 --------3 paragraph: b'amount' b'mass' b'molecules' b'system' b'chapter' b'conservation' b'way' b'equation' b'accumulation' b'just' 

@@ -1,5 +1,6 @@
 
-transcript14:pressure heart blood contraction ventricle valve atrium system flow volume 
+transcript14-:
+--------Lecture: b'pressure' b'heart' b'blood' b'contraction' b'ventricle' b'valve' b'atrium' b'system' b'flow' b'volume' 
 --------1 paragraph: b'today' b'pay' b'attention' b'heart' b'role' b'pressure' b'blood' b'circulatory' b'system' b'step' 
 --------2 paragraph: b'side' b'organ' b'function' b'contraction' b'things' b'circulation' b'heart' b'circulatory' b'system' b'veins' 
 --------3 paragraph: b'ventricle' b'atrium' b'heart' b'side' b'left' b'vessels' b'walls' b'difference' b'surface' b'cartoon' 

@@ -1,0 +1,7 @@
+The Road to Brown and Little Rock-6:
+b'schools'##up#up## b'*'#down#down#down## b'truman'#up#up#up## b'*'#down#down#down## b'education'#up#up#down## b'segregation'#up#up### 
+b'*'##up#down#down# b'states'#up#up#up#up# b'*'#down#down#down#down# b'attention'#up#up#down#up# b'court'#up#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'organization'#up#up#down#up# b'rights'#up#up#up#down# b'cases'#down#down#up#down# b'system'#down#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'law'#up#up#up#down# b'school'#down#up#up#up# b'case'#down#up##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'supreme'#up#up#down#up# b'state'#up#down#up#down# b'university'#down#down#up#down# b'*'#down#down##down# 
+b'*'###down#up# b'march'#up##up#up# b'*'#down##down#down# b'blacks'#up##up#up# b'howard'#down##down#up# b'country'#up###up# 

@@ -1,54 +1,44 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>
-            Edunet: {% block title %} Home {% endblock %}
-        </title>
-    </head>
-    <body>
-        <h1>
-            {% block header %} Index View {% endblock %}
-        </h1>
+{% extends 'edunet/base.html' %}
 
-        {% block search %}
-            {% if user.is_authenticated %}
-                <form action="{% url 'edunet:search_results' %}" method="GET">
-                    <input name="search_query" type="text" placeholder="Search Courses...">
-                </form>
-            {% endif %}
-        {% endblock %}
+{% block title %} Home {% endblock %}
 
-        {% block body %}
+{% block header %} 
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+        <div class="container">
+            <h1 class="display-3">Welcome to the Educational Network</h1>
             {% if user.is_authenticated %}
-                <p>Welcome to EduNet {{ user.username }} where studying is not only productive, but fun.</p>
-                <a href="{% url 'logout' %}">logout</a>
-                <a href="{% url 'password_reset' %}">reset password</a>
-                <a href="{% url 'edunet:admin_help' %}">admin help</a>
-                <a href="{% url 'edunet:student_help' %}">student help</a>
+                <p>Hey, {{ user.username }}, are you ready for enjoyable and efficient studying?</p>
             {% else %}
-                <p>You are not logged in.</p>
-                <p>
-                    Student: 
-                    <a href="{% url 'login' %}">login</a>
-                    <a href="{% url 'edunet:signup' %}">signup</a>
-                </p>
-                <p>
-                    Administrator:
-                    <a href="{% url 'admin:login' %}">login</a>
-                    <p>For administrator signup, email site developer: <a href="mailto:rian.boutin@student.fairfield.edu">rian.boutin@student.fairfield.edu</a></p>
-                </p>
+                <p>Login <a href="{% url 'login' %}">here.</a>&nbspNot a member? Signup <a href="{% url 'edunet:signup' %}">here.</a></p>
             {% endif %}
-        {% endblock %}
+            <p><a class="btn btn-primary btn-lg" href="{% url 'edunet:help' %}" role="button">Learn more &raquo;</a></p>
+        </div>
+    </div>
+{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Tree of Knowledge</h2>
+                <p>The <i>Tree of Knowledge</i> consists of keywords extracted from a lecture. There are keywords extracted from the lecture as a whole and keywords extracted from each paragraph within the lecture transcript. The number of keywords can be chosen up to, but not exceeding ten.</p>
+                <p><a class="btn btn-secondary" href="{% url 'edunet:help' %}" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Puzzle of Knowledge</h2>
+                <p>The <i>Puzzle of Knowledge</i> allows for an interactive experience. The student must complete a puzzle with the pieces that are given. The pieces are keywords and the most important ones must be placed in the center. To complete the puzzle, the pieces must then be placed in an order that spirals out.</p>
+                <p><a class="btn btn-secondary" href="{% url 'edunet:help' %}" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Contributors</h2>
+                <p>EduNet would like to thank Fairfield University for developing and funding this project. We would also like to thank Yale University for supplying the online courses that are available on this site.</p>
+                <p><a class="btn btn-secondary" href="{% url 'edunet:contributors' %}" role="button">View details &raquo;</a></p>
+            </div>
+        </div>
 
         <hr>
 
-        {% block links %}
-            <div>
-                <a href="{% url 'edunet:index' %}">Home</a>
-                <a href="{% url 'edunet:departments' %}">Departments</a>
-            </div>
-        {% endblock %}
-        
-    </body>
-</html>
+    </div> <!-- /container -->
+{% endblock %}

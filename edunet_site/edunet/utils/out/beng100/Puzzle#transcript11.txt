@@ -1,0 +1,7 @@
+-6:
+b'effect'##up#down## b'bloodstream'#up#down#up## b'infusion'#down#down#up## b'time'#down#down#up## b'*'#down#down#down## b'antibodies'#up#up### 
+b'*'##up#down#down# b'something'#up#up#up#up# b'example'#down#down#down#up# b'dose'#up#up#up#up# b'concentration'#down#up#up#up# b'person'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'body'#up#up#up#up# b'drugs'#down#up#up#down# b'way'#down#up#up#down# b'rate'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'drug'#up#up#down#down# b'insulin'#up#down#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'molecules'#up#up#down#up# b'liver'#up#up#up#down# b'cells'#down#up#down#up# b'changes'#up#down##up# 
+b'*'###down#up# b'administration'#up##down#up# b'so'#up##up#down# b'*'#down##down#down# b'effects'#up##down#down# b'blood'#up###up# 

@@ -1,0 +1,7 @@
+-6:
+b'blob'##up#down## b'size'#up#down#up## b'space'#down#down#down## b'something'#up#up#up## b'*'#down#down#down## b'astrometry'#up#up### 
+b'*'##up#down#down# b'planets'#up#up#up#up# b'transits'#down#up#down#up# b'so'#up#up#down#down# b'alpha'#up#up#down#up# b'method'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'light'#up#up#up#down# b'star'#down#up#down#down# b'centauri'#up#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'planet'#up#up#down#down# b'effect'#up#up#up#down# b'course'#down#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'thing'#up#up#up#up# b'earth'#down#up#up#down# b'jupiter'#down#down#down#down# b'sun'#up#down##down# 
+b'*'###down#up# b'velocity'#up##down#up# b'things'#up##down#down# b'radius'#up##down#down# b'mass'#up##up#up# b'x'#down###up# 

@@ -1,5 +1,6 @@
 
-transcript17:kidney sodium water concentration glomerulus urine tubule filtration blood molecules 
+transcript17-:
+--------Lecture: b'kidney' b'sodium' b'water' b'concentration' b'glomerulus' b'urine' b'tubule' b'filtration' b'blood' b'molecules' 
 --------1 paragraph: b'chapter' b'physiology' b'environment' b'homeostasis' b'body' b'ability' b'function' b'perspective' b'whole' b'class' 
 --------2 paragraph: b'l' b'ability' b'waste' b'kidney' b'things' b'day' b'life' b'body' b'lecture' b'kidneys' 
 --------3 paragraph: b'time' b'sort' b'kidney' b'system' b'circulatory' b'heart' b'brain' b'systems' b'details' b'bit' 

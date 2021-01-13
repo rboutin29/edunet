@@ -1,5 +1,6 @@
 
-transcript03:dna rna cells base cell molecules protein gene molecule structure 
+transcript03-:
+--------Lecture: b'dna' b'rna' b'cells' b'base' b'cell' b'molecules' b'protein' b'gene' b'molecule' b'structure' 
 --------1 paragraph: b'dna' b'things' b'something' b'book' b'afterwards' b'beforehand' b'lecture' b'sense' b'places' b'everything' 
 --------2 paragraph: b'dna' b'molecules' b'sort' b'today' b'order' b'thursday' b'goal' b'engineering' b'chemistry' b'behavior' 
 --------3 paragraph: b'ladder' b'helix' b'structure' b'struts' b'outside' b'molecule' b'backbone' b'things' b'rungs' b'couple' 

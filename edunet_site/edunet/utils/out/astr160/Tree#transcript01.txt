@@ -1,5 +1,6 @@
 
-transcript01:course kind things science problem way something theory class so 
+transcript01-:
+--------Lecture: b'course' b'kind' b'things' b'science' b'problem' b'way' b'something' b'theory' b'class' b'so' 
 --------1 paragraph: b'science' b'course' b'class' b'things' b'room' b'front' b'courses' b'astronomy' b'introductory' b'suggestion' 
 --------2 paragraph: b'courses' b'survey' b'science' b'difference' b'astronomy' b'math' b'class' b'level' b'department' b'university' 
 --------3 paragraph: b'course' b'research' b'time' b'detail' b'things' b'advancement' b'stage' b'astronomy' b'everything' b'week' 

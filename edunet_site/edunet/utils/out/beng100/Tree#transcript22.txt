@@ -1,5 +1,6 @@
 
-transcript22:tissue cells blood skin heart material liver nerve process body 
+transcript22-:
+--------Lecture: b'tissue' b'cells' b'blood' b'skin' b'heart' b'material' b'liver' b'nerve' b'process' b'body' 
 --------1 paragraph: b'chapter' b'things' b'tissue' b'engineering' b'today' b'papers' b'subject' b'folder' b'lecture' b'slide' 
 --------2 paragraph: b'numbers' b'slide' b'drugs' b'diseases' b'tissue' b'point' b'leisure' b'course' b'notes' b'incidences' 
 --------3 paragraph: b'skin' b'burns' b'body' b'water' b'infection' b'risk' b'bacteria' b'viruses' b'microorganisms' b'dehydration' 

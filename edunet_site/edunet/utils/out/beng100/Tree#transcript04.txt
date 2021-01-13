@@ -1,5 +1,6 @@
 
-transcript04:dna gene rna plasmid cell way restriction example cells sequence 
+transcript04-:
+--------Lecture: b'dna' b'gene' b'rna' b'plasmid' b'cell' b'way' b'restriction' b'example' b'cells' b'sequence' 
 --------1 paragraph: b'dna' b'applications' b'technology' b'today' b'application' b'magazine' b'news' b'things' b'science' b'newspaper' 
 --------2 paragraph: b'bit' b'boxes' b'today' b'proteins' b'production' b'one' b'technique' b'specific' b'detail' b'chapter' 
 --------3 paragraph: b'cell' b'process' b'dna' b'bit' b'body' b'family' b'concept' b'picture' b'expression' b'genes' 

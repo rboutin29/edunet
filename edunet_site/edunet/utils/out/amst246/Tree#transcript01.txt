@@ -1,5 +1,6 @@
 
-transcript01:war world hemingway kind faulkner irony sense benjy way cuba 
+transcript01-Introduction:
+--------Lecture: b'war' b'world' b'hemingway' b'kind' b'faulkner' b'irony' b'sense' b'benjy' b'way' b'cuba' 
 --------1 paragraph: b'logistics' b'chapter' b'class' 
 --------2 paragraph: b'sections' b'section' b'sheets' b'class' b'times' b'tuesday' b'sign' b'thursday' b'well' b'department' 
 --------3 paragraph: b'camera' b'back' b'open' b'yale' b'courses' b'so' b'bit' b'side' b'view' b'do' 

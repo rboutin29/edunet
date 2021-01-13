@@ -1,0 +1,7 @@
+Faulkner's Light in August-6:
+b'byron'##up#up## b'*'#down#down#down## b'turn'#up#up#down## b'men'#up#down#up## b'life'#down#up#down## b'person'#up#up### 
+b'*'##up#down#down# b'time'#up#up#up#up# b'story'#down#up#up#down# b'people'#down#up#down#up# b'kind'#up#up#down#down# b'something'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'novel'#up#up#up#down# b'way'#down#up#up#down# b'*'#down#down#down#down# b'switchability'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'faulkner'#up#up#up#down# b'epic'#down#up#up#up# b'journey'#down#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'lena'#up#up#up#up# b'part'#down#down#up#down# b'comedy'#down#up#up#down# b'sense'#down#up##up# 
+b'*'###down#up# b'road'#up##up#up# b'*'#down##down#down# b'fact'#up##down#up# b'emphasis'#up##up#down# b'*'#down###down# 

@@ -1,29 +1,125 @@
-{% extends 'edunet/index.html' %}
+{% extends 'edunet/base.html' %}
 
-{% block title %} Course Tree {% endblock %}
+{% block title %} {{ course.course_number }} Tree {% endblock %}
 
-{% block header %} Course Tree of Knowledge {% endblock %}
+{% block nav %}
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'edunet:course_list' department.department_slug %}">{{ department.department_name }}</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">{{ course.course_number }}</a>
+</li>
+{% endblock %}
+
+{% block header %}
+    <h2>Course: {{ course.course_name }} {{ course.course_number }}</h2>
+    <h4>Lecture: {{ lecture_title }} Tree of Knowledge</h4>
+{% endblock %}
 
 {% block body %}
 
-    <h3>
-        This is the tree of knowledge for {{ course.course_name }} in {{ department.department_name }}.
-    </h3>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'edunet/tree-style.css' %}">
 
-    {% for tree in trees %}
-        {{ tree }}
-        <br>
-    {% endfor %}
+    <p>A tree view represents a hierarchical view of information, where each item can have a number of subitems. The most important keyword begin on the top for the item list and left for the tree view.</p>
+    <p>Click on the box(es) to open or close the tree branches.</p>
+    <p>There is a total of {{ paragraph_num }} paragraphs for this transcript.</p>
+    <p><Strong>Note:</Strong> If there is less keywords then you requested then the requested amount exceeds the total amount of keywords for that paragraph.</p>
 
-{% endblock %}
+    <ul class="myUL">
+        {% for key, value in lecture_kw.items %}
+        <li><span class="box"><strong>{{ key }}</strong></span>
+            <ul class="nested">
+                {% for word in value %}
+                <li><span class="box">{{ word }}</span>
+                    <ul class="nested">
+                        <li><a href="http://www.google.com/search?q={{word}}&btnI">Click to view definition...</li></a>
+                    </ul>
+                </li>  
+                {% endfor %}
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
 
-{% block links %}
-    {% if user.is_authenticated %}
-    <div>
-        <a href="{% url 'edunet:index' %}">Home</a>
-        <a href="{% url 'edunet:departments' %}">Departments</a>
-        <a href="{% url 'edunet:course_list' department.department_slug %}">Course list</a>
-        <a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">Course Detail</a>
+    <ul class="myUL">
+        {% for key, value in paragraph_kw.items %}
+        <li><span class="box"><strong>{{ key }}</strong></span>
+            <ul class="nested">
+                {% for k, v in value.items %}
+                <li><span class="box"><strong>{{ k }}</strong></span>
+                    <ul class="nested">
+                        {% for w in v %}
+                        <li><span class="box">{{ w }}</span>
+                            <ul class="nested">
+                                <li><a href="http://www.google.com/search?q={{w}}&btnI">Click to view definition...</li></a>
+                            </ul>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </li>  
+                {% endfor %}
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
+    
+    <div class="container">
+        <div class="tf-tree">
+            <ul>
+                {% for key, value in lecture_kw.items %}
+                <li><span class="tf-nc">{{ key }}</span>
+                    <ul>
+                        {% for word in value %}
+                        <li>
+                            <a href="http://www.google.com/search?q={{word}}&btnI">
+                                <span class="tf-nc">{{ word }}</span>
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
     </div>
-    {% endif %}
+
+    <div class="container">
+        <div class="tf-tree">
+        <ul>
+            {% for key, value in paragraph_kw.items %}
+            <li><span class="tf-nc">{{ key }}</span>
+            <ul>
+                {% for k, v in value.items %}
+                <li><span class="tf-nc">{{ k }}</span>
+                <ul>
+                    {% for w in v %}
+                    <li>
+                        <a href="http://www.google.com/search?q={{w}}&btnI">
+                            <span class="tf-nc">{{ w }}</span>
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                </li>
+                {% endfor %}
+            </ul>
+            </li>
+            {% endfor %}
+        </ul>
+        </div>
+    </div>
+
+    <script>
+        var toggler = document.getElementsByClassName("box");
+        var i;
+        
+        for (i = 0; i < toggler.length; i++) {
+          toggler[i].addEventListener("click", function() {
+            this.parentElement.querySelector(".nested").classList.toggle("active");
+            this.classList.toggle("check-box");
+          });
+        }
+    </script>
+
 {% endblock %}

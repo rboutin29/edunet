@@ -1,0 +1,7 @@
+-6:
+b'science'##up#down## b'telescope'#up#down#up## b'*'#down#down#down## b'people'#up#up#up## b'logarithms'#down#down#up## b'fact'#down#up### 
+b'*'##up#down#down# b'hubble'#up#up#down#up# b'star'#up#down#down#up# b'kind'#up#down#up#down# b'way'#down#up#up#up# b'energy'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'distance'#up#up#up#up# b'things'#down#up#up#up# b'stars'#down#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'magnitude'#up#up#down#down# b'galaxy'#up#down#up#down# b'universe'#down#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'something'#up#down#up#up# b'log'#down#up#up#down# b'thing'#down#up#up#up# b'nebulae'#down#up##down# 
+b'*'###down#up# b'galaxies'#up##down#up# b'number'#up##up#up# b'minus'#down##down#down# b'track'#up##up#down# b'*'#down###down# 

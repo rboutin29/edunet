@@ -1,5 +1,6 @@
 
-transcript02:problem star thing things something times equation way so units 
+transcript02-:
+--------Lecture: b'problem' b'star' b'thing' b'things' b'something' b'times' b'equation' b'way' b'so' b'units' 
 --------1 paragraph: b'classes' b'syllabus' b'copies' b'case' b'everything' b'astronomy' b'welcome' b'bailyn' b'charles' b'professor' 
 --------2 paragraph: b'sections' b'juniors' b'seniors' b'class' b'monday' b'section' b'sign' b'week' b'course' b'science' 
 --------3 paragraph: b'problem' b'purpose' b'today' b'something' b'classes' b'set' b'sets' b'kind' b'class' b'office' 

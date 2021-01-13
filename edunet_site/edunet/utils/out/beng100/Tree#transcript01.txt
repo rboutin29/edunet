@@ -1,5 +1,6 @@
 
-transcript01:things example engineering heart course way body years time cells 
+transcript01-:
+--------Lecture: b'things' b'example' b'engineering' b'heart' b'course' b'way' b'body' b'years' b'time' b'cells' 
 --------1 paragraph: b'course' b'yen' b'year' b'biomedical' b'teaching' b'today' b'bit' b'phd' b'student' b'serge' 
 --------2 paragraph: b'way' b'syllabus' b'lecture' b'powerpoints' b'portion' b'readings' b'online' b'day' b'slides' b'classes' 
 --------3 paragraph: b'course' b'semester' b'time' b'matter' b'sort' b'bit' b'today' b'angles' b'subject' b'question' 

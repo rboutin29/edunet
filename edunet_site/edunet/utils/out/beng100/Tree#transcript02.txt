@@ -1,5 +1,6 @@
 
-transcript02:student engineering cells example heart water temperature body brain blood 
+transcript02-:
+--------Lecture: b'student' b'engineering' b'cells' b'example' b'heart' b'water' b'temperature' b'body' b'brain' b'blood' 
 --------1 paragraph: b'things' b'time' b'class' b'engineering' b'biomedical' b'assignment' b'products' b'lipids' b'list' b'membranes' 
 --------2 paragraph: b'student' 
 --------3 paragraph: b'drugs' b'drug' b'disease' b'heart' b'sickness' b'motion' b'others' b'scopolamine' b'way' b'example' 

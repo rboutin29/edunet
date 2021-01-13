@@ -1,5 +1,6 @@
 
-transcript06:cells cell stem process blood proteins division way dna kinds 
+transcript06-:
+--------Lecture: b'cells' b'cell' b'stem' b'process' b'blood' b'proteins' b'division' b'way' b'dna' b'kinds' 
 --------1 paragraph: b'cells' b'ways' b'today' b'principles' b'properties' b'time' b'sort' b'chapter' b'bit' b'organism' 
 --------2 paragraph: b'cell' b'chromosome' b'egg' b'cells' b'sperm' b'line' b'half' b'germ' b'reduction' b'results' 
 --------3 paragraph: b'cell' b'cells' b'sperm' b'chromosome' b'egg' b'part' b'copy' b'divides' b'embryogenesis' b'fertilization' 

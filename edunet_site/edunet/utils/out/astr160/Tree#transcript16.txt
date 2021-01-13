@@ -1,5 +1,6 @@
 
-transcript16:magnitude things distance something stars way log star kind hubble 
+transcript16-:
+--------Lecture: b'magnitude' b'things' b'distance' b'something' b'stars' b'way' b'log' b'star' b'kind' b'hubble' 
 --------1 paragraph: b'terms' b'something' b'cosmology' b'subject' b'whole' b'century' b'universe' b'things' b'study' b'course' 
 --------2 paragraph: b'universe' b'idea' b'discovery' b'somehow' b'science' b'stuff' b'failure' b'majority' b'cosmology' b'years' 
 --------3 paragraph: b'energy' b'kind' b'universe' b'dark' b'clue' b'scientists' 

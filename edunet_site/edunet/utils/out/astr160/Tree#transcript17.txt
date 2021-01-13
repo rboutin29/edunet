@@ -1,5 +1,6 @@
 
-transcript17:universe student point distance professor thing charles question time okay 
+transcript17-:
+--------Lecture: b'universe' b'student' b'point' b'distance' b'professor' b'thing' b'charles' b'question' b'time' b'okay' 
 --------1 paragraph: b'hubble' b'implications' b'law' b'diagram' b'set' b'problem' b'comment' b'magnitudes' b'today' b'cosmology' 
 --------2 paragraph: b'ratio' b'magnitude' b'equation' b'objects' b'kind' b'magnitudes' b"i'm" b'equations' b'absolute' b'brightness' 
 --------3 paragraph: b'log' b'form' b'let' b'equation' b'power' b'b2' b'web' b'halves' b'sheet' b'help' 

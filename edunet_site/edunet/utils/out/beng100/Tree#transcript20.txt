@@ -1,5 +1,6 @@
 
-transcript20:radiation body object image things way something film patient images 
+transcript20-:
+--------Lecture: b'radiation' b'body' b'object' b'image' b'things' b'way' b'something' b'film' b'patient' b'images' 
 --------1 paragraph: b'week' b'body' b'systems' b'limitations' b'work' b'modes' b'sense' b'surface' b'yale' b'imagining' 
 --------2 paragraph: b'image' b'body' b'way' b'limitations' b'methods' b'challenges' b'innovations' b'problems' b'year' b'lecture' 
 --------3 paragraph: b'representation' b'object' b'images' b'imaging' b'properties' b'ways' b'photograph' b'objects' b'phenomenon' b'image' 

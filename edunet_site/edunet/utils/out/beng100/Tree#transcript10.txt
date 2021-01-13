@@ -1,5 +1,6 @@
 
-transcript10:vaccine virus cells polio response disease antibody people time antibodies 
+transcript10-:
+--------Lecture: b'vaccine' b'virus' b'cells' b'polio' b'response' b'disease' b'antibody' b'people' b'time' b'antibodies' 
 --------1 paragraph: b'vaccine' b'today' b'development' b'body' b'discussion' b'terms' b'methods' b'sort' b'smallpox' b'vaccines' 
 --------2 paragraph: b'immature' b'activation' b'cells' b'vaccine' b'cell' b'number' b'bit' b'increase' b'signals' b'illustrate' 
 --------3 paragraph: b'cells' b'antigen' b'virus' b'immune' b'context' b'system' b'cell' b'cytotoxic' b'signature' b'piece' 

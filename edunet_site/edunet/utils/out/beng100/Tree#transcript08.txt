@@ -1,5 +1,6 @@
 
-transcript08:cells cell system antibodies immune action molecules antigen membrane time 
+transcript08-:
+--------Lecture: b'cells' b'cell' b'system' b'antibodies' b'immune' b'action' b'molecules' b'antigen' b'membrane' b'time' 
 --------1 paragraph: b'system' b'concepts' b'time' b'systems' b'immune' b'lead' b'week' b'vaccines' b'immunology' b'way' 
 --------2 paragraph: b'cell' b'shapes' b'body' b'function' b'case' b'shape' b'neuron' b'set' b'place' b'proteins' 
 --------3 paragraph: b'cells' b'system' b'brain' b'cell' b'complexity' b'information' b'region' b'direction' b'regions' b'part' 

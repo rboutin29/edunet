@@ -1,0 +1,7 @@
+-6:
+b'picture'##up#up## b'*'#down#down#down## b'glomerulus'#up#up#up## b'*'#down#down#down## b'difference'#up#down#up## b'capillaries'#down#up### 
+b'*'##up#down#down# b'lot'#up#up#up#up# b'filtration'#down#up#up#down# b'plasma'#down#up#up#up# b'molecules'#down#up#up#up# b'side'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'fluid'#up#up#up#down# b'blood'#down#up#up#down# b'urine'#down#down#down#down# b'filter'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'kidney'#up#down#down#down# b'water'#up#down#up#up# b'things'#down#up##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'pressure'#up#down#down#up# b'system'#up#up#down#up# b'body'#up#down#up#up# b'way'#down#up##down# 
+b'*'###down#up# b'kidneys'#up##down#up# b'function'#up##up#up# b'order'#down##down#down# b'concentration'#up##up#up# b'sodium'#down###down# 

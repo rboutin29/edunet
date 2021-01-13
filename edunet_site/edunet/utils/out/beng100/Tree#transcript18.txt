@@ -1,5 +1,6 @@
 
-transcript18:material force materials way experiment deformation spring stress rubber fluid 
+transcript18-:
+--------Lecture: b'material' b'force' b'materials' b'way' b'experiment' b'deformation' b'spring' b'stress' b'rubber' b'fluid' 
 --------1 paragraph: b'chapter' b'gait' b'biomechanics' b'motion' b'kind' b'mechanics' b'humans' b'today' b'aspects' b'analysis' 
 --------2 paragraph: b'materials' b'properties' b'viscoelasticity' b'something' b'physics' b'qualities' b'mechanics' b'eye' b'elements' b'portion' 
 --------3 paragraph: b'flight' b'humans' b'materials' b'property' b'field' b'walking' b'how' b'running' b'motion' b'perspective' 

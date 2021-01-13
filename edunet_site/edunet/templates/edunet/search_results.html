@@ -1,12 +1,12 @@
 {% extends 'edunet/index.html' %}
 
-{% block title %} Search Results {% endblock %}
+{% block title %} Search {% endblock %}
 
-{% block header %} Search Results {% endblock %}
+{% block header %}<h2>Search Results</h2>{% endblock %}
 
 {% block body %}
 
-    <h4>Click the course to see its description at the Yale wesbite.</h4>
+    <h6>Click the course to see its description at the Yale wesbite.</h6>
 
     <ul>
         {% for course in object_list %}

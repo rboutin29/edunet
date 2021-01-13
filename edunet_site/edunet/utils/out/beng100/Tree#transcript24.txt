@@ -1,5 +1,6 @@
 
-transcript24:cancer cells drug radiation tumor body cell people tissue time 
+transcript24-:
+--------Lecture: b'cancer' b'cells' b'drug' b'radiation' b'tumor' b'body' b'cell' b'people' b'tissue' b'time' 
 --------1 paragraph: b'course' b'thursday' b'point' b'progress' b'subject' b'areas' b'cancer' b'questions' b'discussion' b'any' 
 --------2 paragraph: b'cancer' b'information' b'part' b'people' b'cancers' b'disease' b'society' b'cases' b'statistics' b'progress' 
 --------3 paragraph: b'cancer' b'deaths' b'females' b'cases' b'number' b'website' b'males' b'statistics' b'sort' b'society' 

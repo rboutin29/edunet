@@ -1,0 +1,7 @@
+-6:
+b'function'##up#up## b'time'#down#up#up## b'*'#down#down#down## b'circuit'#up#down#down## b'aorta'#up#up#up## b'circulation'#down#up### 
+b'*'##up#down#down# b'way'#up#up#up#down# b'volume'#down#up#up#up# b'system'#down#up#up#up# b'flow'#down#down#up#down# b'resistance'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'blood'#up#up#up#down# b'heart'#down#up#up#down# b'valves'#down#down#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'pressure'#up#up#up#down# b'atrium'#down#up#down#up# b'systole'#up#down##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'contraction'#up#up#up#up# b'ventricle'#down#up#up#down# b'valve'#down#up#up#down# b'pressures'#down#up##up# 
+b'*'###down#up# b'circulatory'#up##up#up# b'*'#down##down#down# b'muscle'#up##up#down# b'bit'#down##down#down# b'diagram'#up###down# 

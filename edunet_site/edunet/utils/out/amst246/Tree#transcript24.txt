@@ -1,5 +1,6 @@
 
-transcript24:word joe joanna race faulkner face hightower people kind someone 
+transcript24-Faulkner's Light in August, Part III:
+--------Lecture: b'word' b'joe' b'joanna' b'race' b'faulkner' b'face' b'hightower' b'people' b'kind' b'someone' 
 --------1 paragraph: b'august' b'light' b'race' b'problem' b'unresolved' b'chapter' 
 --------2 paragraph: b'neighbors' b'things' b'recipient' b'strangers' b'hightower' b'kindness' b'thatlena' b'concept' b'first' b'break' 
 --------3 paragraph: b'face' b'people' b'spite' b'things' b'statement' b'hightower' b'proposition' b'quote' b'fellows' b'act' 

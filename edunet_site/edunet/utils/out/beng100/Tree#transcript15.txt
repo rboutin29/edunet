@@ -1,5 +1,6 @@
 
-transcript15:action cell heart cells membrane sodium sa channels way wave 
+transcript15-:
+--------Lecture: b'action' b'cell' b'heart' b'cells' b'membrane' b'sodium' b'sa' b'channels' b'way' b'wave' 
 --------1 paragraph: b'heart' b'activity' b'measurements' b'body' b'function' b'today' b'sort' b'electrocardiograph' b'afternoon' b'engineers' 
 --------2 paragraph: b'cell' b'ions' b'fluid' b'sodium' b'ion' b'concentration' b'potassium' b'composition' b'calcium' b'molecules' 
 --------3 paragraph: b'concentration' b'sodium' b'bilayer' b'potassium' b'difference' b'mmol' b'cell' b'molecules' b'plain' b'membrane' 

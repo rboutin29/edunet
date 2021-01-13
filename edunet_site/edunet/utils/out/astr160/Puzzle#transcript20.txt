@@ -1,0 +1,7 @@
+-6:
+b'density'##up#up## b'\xcf\x89'#down#up#up## b'*'#down#down#down## b'looks'#up#up#down## b'kind'#up#down#up## b'thing'#down#down### 
+b'*'##up#down#down# b'matter'#up#up#up#down# b'something'#down#up#down#up# b'distance'#up#up#up#down# b'so'#down#down#down#up# b'okay'#up#up##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'things'#up#up#up#down# b'time'#down#up#up#down# b'factor'#down#up#down#up# b'how'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'universe'#up#down#up#down# b'way'#down#down#down#down# b'magnitude'#up#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'energy'#up#up#down#up# b'fact'#up#up#up#up# b'line'#down#up#up#up# b'lines'#down#down##up# 
+b'*'###down#up# b'redshift'#up##down#up# b'idea'#up##up#down# b'*'#down##down#down# b'points'#up##up#down# b'plot'#down###up# 

@@ -1,22 +1,24 @@
-{% extends 'edunet/index.html' %}
+{% extends 'edunet/base.html' %}
 
 {% block title %} Course Processor {% endblock %}
 
-{% block header %} Course Processor View {% endblock %}
+{% block nav %}
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'edunet:course_list' department.department_slug %}">{{ department.department_name }}</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">{{ course.course_number }}</a>
+</li>
+{% endblock %}
+
+{% block header %} <h3>Course Processor View</h3> {% endblock %}
 
 {% block body %}
 
-    {{ course.course_name }}
+    <p>
+        {{ course.course_name }} has been sucessfully processed. 
+        Click <a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">here</a> 
+        to return to the course detail page.
+    </p>
 
-    <p>The course has been sucessfully processed. Click <a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">here</a> to return to the course detail page.</p>
-
-{% endblock %}
-
-{% block links %}
-    <div>
-        <a href="{% url 'edunet:index' %}">Home</a>
-        <a href="{% url 'edunet:departments' %}">Departments</a>
-        <a href="{% url 'edunet:course_list' department.department_slug %}">Course list</a>
-        <a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">Course Detail</a>
-    </div>
 {% endblock %}

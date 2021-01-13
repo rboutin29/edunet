@@ -1,5 +1,6 @@
 
-transcript16:kidney blood fluid pressure body filtration water molecules urine lot 
+transcript16-:
+--------Lecture: b'kidney' b'blood' b'fluid' b'pressure' b'body' b'filtration' b'water' b'molecules' b'urine' b'lot' 
 --------1 paragraph: b'dialysis' b'function' b'disease' b'patients' b'kidney' b'life' b'health' b'duration' b'state' b'quality' 
 --------2 paragraph: b'plasma' b'blood' b'fluid' b'body' b'things' b'tubes' b'bladder' b'kidney' b'system' b'heart' 
 --------3 paragraph: b'health' b'kidney' b'dialysis' b'means' b'people' b'failure' b'anatomy' b'level' b'body' b'bit' 

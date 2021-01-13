@@ -1,15 +1,15 @@
-{% extends 'edunet/index.html' %}
+{% extends 'edunet/base.html' %}
 
-{% block title %} Department List {% endblock %}
+{% block title %} Departments {% endblock %}
 
-{% block header %} Department List View {% endblock %}
+{% block header %} <h1>Department List View</h1> {% endblock %}
 
 {% block body %}
             
     {% if departments %}
         <ul>
             {% for department in departments %}
-                <li><a href="{% url 'edunet:course_list' department.department_slug %}">{{ department.department_name }}</a></li>
+                <li><a href="{% url 'edunet:course_list' department.department_slug %}">{{ department.department_name }} {{ department.department_abbreviation }}</a></li>
             {% endfor %}
         </ul>
     {% else %}

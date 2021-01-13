@@ -1,5 +1,6 @@
 
-transcript23:cells tissue blood cartilage time body material fibers example insulin 
+transcript23-:
+--------Lecture: b'cells' b'tissue' b'blood' b'cartilage' b'time' b'body' b'material' b'fibers' b'example' b'insulin' 
 --------1 paragraph: b'years' b'field' b'sense' b'website' b'readings' b'therapies' b'approach' b'illustrate' b'sort' b'examples' 
 --------2 paragraph: b'tissue' b'engineering' b'solution' b'cases' b'time' b'response' b'approaches' b'class' b'body' b'transplantation' 
 --------3 paragraph: b'liver' b'body' b'infection' b'kind' b'capacity' b'tissue' b'example' b'loss' b'ability' b'opportunity' 

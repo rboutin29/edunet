@@ -1,0 +1,7 @@
+-6:
+b'days'##up#up## b'point'#down#up#up## b'*'#down#down#down## b'coat'#up#up#down## b'polymers'#up#up#down## b'things'#up#up### 
+b'*'##up#down#down# b'rate'#up#up#up#down# b'period'#down#up#down#up# b'polymer'#up#up#up#down# b'particles'#down#up#down#down# b'kinds'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'time'#up#up#up#down# b'drugs'#down#up#up#down# b'tumor'#down#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'drug'#up#up#up#down# b'brain'#down#up#down#down# b'blood'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'body'#up#down#up#up# b'concentration'#down#up#up#down# b'molecules'#down#down#up#down# b'*'#down#down##down# 
+b'*'###down#up# b'way'#up##down#up# b'system'#up##up#up# b'pill'#down##up#down# b'well'#down##up#up# b'kind'#down###up# 

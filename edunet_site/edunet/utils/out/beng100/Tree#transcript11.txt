@@ -1,5 +1,6 @@
 
-transcript11:drug drugs body molecules concentration example dose cells administration time 
+transcript11-:
+--------Lecture: b'drug' b'drugs' b'body' b'molecules' b'concentration' b'example' b'dose' b'cells' b'administration' b'time' 
 --------1 paragraph: b'drug' b'sort' b'delivery' b'administration' b'drugs' b'others' b'today' b'thursday' b'foundations' b'modes' 
 --------2 paragraph: b'delivery' b'vaccine' b'body' b'immune' b'vaccines' b'system' b'something' b'drug' b'administration' b'thing' 
 --------3 paragraph: b'cells' b'change' b'class' b'molecules' b'response' b'antigen' b'presenting' b'vaccine' b'intention' b'dna' 

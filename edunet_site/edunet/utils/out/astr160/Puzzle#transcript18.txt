@@ -1,0 +1,7 @@
+-6:
+b'years'##up#up## b'*'#down#down#down## b'stars'#up#up#down## b'hydrogen'#up#up#up## b'*'#down#down#down## b'point'#up#up### 
+b'*'##up#down#down# b'state'#up#up#up#up# b'*'#down#down#down#down# b'space'#up#up#down#down# b'case'#up#up#up#up# b'past'#down#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'things'#up#up#down#up# b'time'#up#up#up#down# b'galaxies'#down#down#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'universe'#up#up#up#down# b'so'#down#down#down#up# b'idea'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'big'#up#down#down#up# b'thing'#up#up#up#down# b'bang'#down#up#up#up# b'moment'#down#up##down# 
+b'*'###down#up# b'kind'#up##down#up# b'evidence'#up##down#up# b'question'#up##up#down# b'*'#down##down#down# b'people'#up###down# 

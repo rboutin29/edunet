@@ -1,5 +1,6 @@
 
-transcript10:mass speed thing student question energy professor something things time 
+transcript10-:
+--------Lecture: b'mass' b'speed' b'thing' b'student' b'question' b'energy' b'professor' b'something' b'things' b'time' 
 --------1 paragraph: b'gamma' b'factor' b'approaches' b'class' b'c' b'end' b'v' b'right' b'bit' b'law' 
 --------2 paragraph: b'mass' b'acceleration' b'consequence' b'velocity' b'force' b'speed' b'denominator' b'times' b'regardless' b'gamma' 
 --------3 paragraph: b']' b'inaudible' b'[' b'student' 

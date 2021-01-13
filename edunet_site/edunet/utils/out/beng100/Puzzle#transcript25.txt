@@ -1,0 +1,7 @@
+-6:
+b'bone'##up#up## b'*'#down#down#down## b'something'#up#down#down## b'device'#up#up#up## b'*'#down#down#down## b'pressure'#up#up### 
+b'*'##up#down#down# b'metal'#up#up#down#up# b'patient'#up#down#up#up# b'kind'#down#down#up#down# b'polymer'#down#down#down#up# b'aorta'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'cells'#up#up#up#up# b'blood'#down#up#up#up# b'surface'#down#up#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'material'#up#up#up#down# b'body'#down#up#up#down# b'proteins'#down#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'materials'#up#up#up#up# b'heart'#down#down#down#down# b'example'#up#up#up#down# b'*'#down#down##down# 
+b'*'###down#up# b'ball'#up##up#up# b'way'#down##up#down# b'design'#down##up#up# b'valve'#down##down#down# b'tissue'#up###up# 

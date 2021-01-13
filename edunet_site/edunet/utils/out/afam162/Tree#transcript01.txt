@@ -1,5 +1,6 @@
 
-transcript01:history course class john years people freedom confederate calhoun way 
+transcript01-Dawn of Freedom:
+--------Lecture: b'history' b'course' b'class' b'john' b'years' b'people' b'freedom' b'confederate' b'calhoun' b'way' 
 --------1 paragraph: b']' b'[' b'friends' b'abolitionist' b'delivered' b'speech' b'douglass' b'chapter' b'frederick' 
 --------2 paragraph: b'holloway' b'jonathan' b'professor' 
 --------3 paragraph: b'july' b'speech' b'friends' b'meaning' b'emancipation' b'course' b'rochester' b'liberty' b'douglass' b'foundation' 

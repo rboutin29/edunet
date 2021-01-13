@@ -1,0 +1,7 @@
+-6:
+b'day'##up#up## b'year'#down#up#up## b'weight'#down#up#up## b'lot'#down#up#up## b'biomedical'#down#down#down## b'week'#up#down### 
+b'*'##up#down#down# b'temperature'#up#up#up#down# b'body'#down#down#down#down# b'function'#up#down#up#down# b'things'#down#up#down#up# b'way'#up#down##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'cells'#up#up#up#up# b'engineering'#down#up#down#up# b'pancreas'#up#down#up#down# b'parts'#down#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'student'#up#down#down#down# b'so'#up#down#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'example'#up#up#up#up# b'thing'#down#up#up#up# b'heart'#down#up#up#up# b'something'#down#down##up# 
+b'*'###down#up# b'water'#up##up#up# b'*'#down##down#down# b'cell'#up##up#down# b'*'#down##down#down# b'brain'#up###up# 

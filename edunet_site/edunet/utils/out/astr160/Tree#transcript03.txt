@@ -1,5 +1,6 @@
 
-transcript03:things planets problem system planet pluto solar thing kind way 
+transcript03-:
+--------Lecture: b'things' b'planets' b'problem' b'system' b'planet' b'pluto' b'solar' b'thing' b'kind' b'way' 
 --------1 paragraph: b'problem' b'set' b'zero' b'exercises' b'way' b'notation' b'policies' b'rules' b'never' b'time' 
 --------2 paragraph: b'root' b'way' b'so' b'things' b'zero' b'integer' b'notation' b'powers' b'place' b'times' 
 --------3 paragraph: b'neptune' b'problem' b'mass' b'straightforward' b'year' b'that' b'earth' b'a' b'period' b'm' 

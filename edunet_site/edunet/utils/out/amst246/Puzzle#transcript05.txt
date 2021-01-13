@@ -1,0 +1,7 @@
+Fitzgerald's The Great Gatsby, Part II-6:
+b'passage'##up#up## b'image'#down#up#up## b'*'#down#down#down## b'world'#up#down#up## b'*'#down#down#down## b'ways'#up#down### 
+b'*'##up#down#down# b'jordan'#up#up#down#down# b'something'#up#down#up#up# b'fitzgerald'#down#down#up#up# b'field'#down#up#up#up# b'color'#down#up##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'nick'#up#up#up#up# b'daisy'#down#up#up#up# b'so'#down#down#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'gatsby'#up#up#up#down# b'tom'#down#down#up#up# b'buchanan'#down#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'sound'#up#down#down#up# b'moment'#up#down#up#down# b'voice'#down#up#up#up# b'*'#down#down##down# 
+b'*'###down#up# b'great'#up##down#up# b'novel'#up##up#up# b'end'#down##up#up# b'*'#down##down#down# b'music'#up###up# 

@@ -1,0 +1,7 @@
+Hemingway's To Have and Have Not-6:
+b'marlin'##up#up## b'*'#down#down#down## b'sing'#up#up#up## b'specimen'#down#up#up## b'*'#down#down#down## b'boat'#up#up### 
+b'*'##up#down#down# b'something'#up#up#down#up# b'question'#up#up#down#down# b'type'#up#up#down#down# b'nigger'#up#down#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'novel'#up#up#up#down# b'hemingway'#down#up#up#down# b'character'#down#up#up#up# b'name'#down#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'harry'#up#down#up#down# b'someone'#down#down#down#down# b'wesley'#up#up##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'man'#up#up#up#up# b'part'#down#down#up#up# b'have'#down#up#up#up# b'*'#down#down##down# 
+b'*'###down#up# b'mr'#up##down#up# b'arm'#up##up#down# b'life'#down##up#up# b'*'#down##down#down# b'johnson'#up###up# 

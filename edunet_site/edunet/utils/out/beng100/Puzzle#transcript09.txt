@@ -1,0 +1,7 @@
+-6:
+b'skin'##up#up## b'*'#down#down#down## b'something'#up#up#up## b'*'#down#down#down## b'family'#up#down#up## b'viruses'#down#down### 
+b'*'##up#down#down# b'immune'#up#up#down#up# b'world'#up#down#up#down# b'time'#down#up#down#up# b'way'#up#down#down#up# b'diseases'#up#down##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'smallpox'#up#up#up#up# b'disease'#down#down#up#down# b'slide'#down#up#down#up# b'part'#up#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'vaccine'#up#up#down#up# b'years'#up#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'virus'#up#up#down#up# b'people'#up#up#up#down# b'vaccines'#down#up#down#down# b'weapon'#up#up##up# 
+b'*'###down#up# b'system'#up##up#up# b'response'#down##up#down# b'infection'#down##down#down# b'immunity'#up##up#down# b'reason'#down###down# 

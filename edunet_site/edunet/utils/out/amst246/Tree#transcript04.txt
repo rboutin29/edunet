@@ -1,5 +1,6 @@
 
-transcript04:gatsby fitzgerald great something telephone machine way sense car objects 
+transcript04-Fitzgerald's The Great Gatsby:
+--------Lecture: b'gatsby' b'fitzgerald' b'great' b'something' b'telephone' b'machine' b'way' b'sense' b'car' b'objects' 
 --------1 paragraph: b'gatsby' b'vagueness' b'perkins' b'chapter' b'maxwell' 
 --------2 paragraph: b'gatsby' b'sense' b'today' b'novel' b'views' b'section' b'great' b'dimock' b'chee' b'wai' 
 --------3 paragraph: b'reader' b'maxwell' b'perkins' b'time' b'muse' b'person' b'edition' b'fitzgerald' b'paris' b'relation' 

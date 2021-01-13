@@ -1,5 +1,6 @@
 
-transcript25:material blood cells materials heart body polymer metal example ball 
+transcript25-:
+--------Lecture: b'material' b'blood' b'cells' b'materials' b'heart' b'body' b'polymer' b'metal' b'example' b'ball' 
 --------1 paragraph: b'applications' b'cancer' b'engineers' b'materials' b'today' b'tuesday' b'cells' b'months' b'molecules' b'concepts' 
 --------2 paragraph: b'toe' b'years' b'mummy' b'reason' b'materials' b'problems' b'people' b'thousands' b'senses' b'material' 
 --------3 paragraph: b'eye' b'lens' b'vision' b'part' b'contact' b'material' b'properties' b'effort' b'difficulty' b'lives' 

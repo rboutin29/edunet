@@ -1,0 +1,7 @@
+-6:
+b'part'##up#up## b'*'#down#down#down## b'photograph'#up#up#up## b'*'#down#down#down## b'thing'#up#up#down## b'ways'#up#up### 
+b'*'##up#down#down# b'spectrum'#up#up#up#up# b'representation'#down#down#up#down# b'light'#down#down#up#up# b'objects'#down#up#down#down# b'properties'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'image'#up#up#up#up# b'body'#down#up#down#up# b'film'#up#down#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'radiation'#up#up#down#down# b'things'#up#down#down#up# b'sort'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'object'#up#up#down#up# b'picture'#up#down#up#down# b'way'#down#up#up#up# b'*'#down#down##down# 
+b'*'###down#up# b'something'#up##down#up# b'patient'#up##down#down# b'angles'#up##down#up# b'images'#up##down#down# b'imaging'#up###up# 

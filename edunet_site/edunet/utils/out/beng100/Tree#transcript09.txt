@@ -1,5 +1,6 @@
 
-transcript09:vaccine disease smallpox virus people vaccines world way system skin 
+transcript09-:
+--------Lecture: b'vaccine' b'disease' b'smallpox' b'virus' b'people' b'vaccines' b'world' b'way' b'system' b'skin' 
 --------1 paragraph: b'examples' b'system' b'sort' b'development' b'individuals' b'immune' b'vaccine' b'immunity' b'engineering' b'technology' 
 --------2 paragraph: b'vaccine' b'examples' b'example' b'smallpox' b'development' b'sort' b'polio' b'biology' b'couple' b'first' 
 --------3 paragraph: b'diseases' b'reasons' b'years' b'water' b'humans' b'systems' b'engineering' b'things' b'lot' b'hospitals' 

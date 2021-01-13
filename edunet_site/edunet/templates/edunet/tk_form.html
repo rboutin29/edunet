@@ -1,14 +1,23 @@
-{% extends 'edunet/index.html' %}
+{% extends 'edunet/base.html' %}
 
-{% block title %} Course Form {% endblock %}
+{% block title %} {{ course.course_number }} Tree Form {% endblock %}
 
-{% block header %} Course Form {% endblock %}
+{% block nav %}
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'edunet:course_list' department.department_slug %}">{{ department.department_name }}</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">{{ course.course_number }}</a>
+</li>
+{% endblock %}
+
+{% block header %}
+    <h6>Department: {{ department.department_name }}</h6> 
+    <h6>Course: {{ course.course_name }}</h6>
+{% endblock %}
 
 {% block body %}
-
-    <h5>Department: {{ department.department_name }}:</h5> 
-    <h4>Course: {{ course.course_name }}</h4>
-    <h3>Tree of Knowledge Form</h3>
+    <h6>Tree of Knowledge Form</h6>
 
     {{ error_message }}
 
@@ -19,16 +28,4 @@
         <input type="submit" value="Submit">
     </form>
 
-{% endblock %}
-
-{% block links %}
-    {% if user.is_authenticated %}
-    <div>
-        <a href="{% url 'edunet:index' %}">Home</a>
-        <a href="{% url 'edunet:departments' %}">Departments</a>
-        <a href="{% url 'edunet:course_list' department.department_slug %}">Course list</a>
-        <a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">Course Detail</a>
-        <a href="{% url 'edunet:course_detail' department.department_slug course.course_slug %}">Course Form</a>
-    </div>
-    {% endif %}
 {% endblock %}

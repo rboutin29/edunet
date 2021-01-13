@@ -1,0 +1,7 @@
+-6:
+b'ear'##up#up## b'scaffold'#down#down#up## b'*'#down#down#down## b'kind'#up#down#down## b'order'#up#down#down## b'things'#up#up### 
+b'*'##up#down#down# b'fibers'#up#up#up#up# b'materials'#down#up#down#up# b'lot'#up#down#up#up# b'insulin'#down#down#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'blood'#up#up#down#down# b'tissue'#up#up#up#up# b'example'#down#up#down#up# b'heart'#up#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'cells'#up#up#up#down# b'material'#down#up#down#down# b'cell'#up#up##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'cartilage'#up#up#down#up# b'time'#up#up#up#down# b'body'#down#up#up#down# b'*'#down#down##down# 
+b'*'###down#up# b'system'#up##up#up# b'*'#down##down#down# b'tissues'#up##up#down# b'*'#down##down#down# b'fiber'#up###up# 
