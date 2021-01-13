@@ -1,0 +1,60 @@
+
+
+
+
+<div id="fileContents">
+<h2>ENGL 291: <strong>The American Novel Since 1945</strong> </h2>
+<table id="lectureHeader" summary="lecture header" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="510" nowrap="nowrap">
+			<span id="lectureNum">Lecture 8 - </span>
+			<span id="lectureName">Jack Kerouac, <em>On the Road</em></span></td>
+		<td width="248" id="lectureNav" nowrap="nowrap">
+			<span id="backNav"><a href="lecture07.html">&lt;&lt; previous session</a></span>
+			<span id="navPipe">|</span>
+			<span id="forwardNav"><a href="lecture09.html">next session &gt;&gt;</a></span>		</td>
+	</tr>
+</table>
+<div id="overviewBlock">
+	<h3>Overview:</h3>
+	<p>Professor Amy Hungerford's lecture on Kerouac's <em>On the Road</em> begins by contrasting the Beats' ambition for language's direct relation to lived experience with a Modernist sense of difficulty and mediation. She goes on to discuss the ways that desire structures the novel, though not in the ways that we might immediately expect. The very blatant pursuit of sex with women in the novel, for example, obscures the more significant desire for connection among men, particularly the narrator Sal's love for Dean Moriarty. The apparent desire for the freedom of the open road, too, Hungerford argues, exists in a necessary conjunction with the idealized comforts of a certain middle-class American domesticity, signaled by the repeated appearance of pie.</p>
+</div>
+<div id="readingBlock">
+	<h3>Reading assignment:</h3>
+	<p>Jack Kerouac, <em>On the Road</em> (1957)</p>
+</div>
+<div id="lectureBlock">
+	<h3>Class lecture:</h3>
+	<table id="lectureTable2" summary="media elements" border="0" cellpadding="0" cellspacing="0">
+    	<tbody>
+        	<tr>
+				<td class="left">
+					<img class="lectureTableImage" alt="Transcript" src="/yale/portal_skins/custom/images/transcript.gif" />
+					<div class="lectureTableContents"><a href="../transcripts/transcript08.html"><img class="lectureTableContentImage" align="middle" alt="html" src="/yale/portal_skins/custom/images/html_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/html_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/html_off.gif');" /></a></div>
+				</td>
+				<td class="middle">
+					<img class="lectureTableImage" alt="Audio" src="/yale/portal_skins/custom/images/audio.gif" />
+					<div class="lectureTableContents"><a href="javascript:openAudioWindow('/courses/spring08/engl291/mp3/engl291_08_020608.mp3');"><img class="lectureTableContentImage" align="middle" alt="mp3" src="/yale/portal_skins/custom/images/mp3_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/mp3_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/mp3_off.gif');" /></a></div>
+				</td>
+				<td class="right">
+					<img class="lectureTableImage" alt="Video" src="/yale/portal_skins/custom/images/video.gif" />
+					
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowMEDIUM('/courses/spring08/engl291/flash/engl291_08_020608.flv');"><img class="lectureTableContentImage" align="middle" alt="medium bandwidth" src="/yale/portal_skins/custom/images/vid_med_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_med_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_med_off.gif');" /></a>
+					</div>
+					<img id="quicktimeVideoHeader" src="/yale/portal_skins/custom/images/quicktime_options_header.gif" />
+					<div class="lectureTableContents">
+					   <a href="javascript:openVideoWindowSMALL('/courses/spring08/engl291/du/engl291_08_020608_REF.mov');"><img class="lectureTableContentImage" align="middle" alt="low bandwidth" src="/yale/portal_skins/custom/images/vid_low_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_low_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_low_off.gif');" /></a>
+					</div>
+					<div class="lectureTableContents">
+					    <a href="javascript:openVideoWindowLARGE('/courses/spring08/engl291/mov/engl291_08_020608.mov');"><img class="lectureTableContentImage" align="middle" alt="high bandwidth" src="/yale/portal_skins/custom/images/vid_high_off.gif" onmouseover="changeImage(this, '/yale/portal_skins/custom/images/vid_high_over.gif');" onmouseout="changeImage(this, '/yale/portal_skins/custom/images/vid_high_off.gif');" /></a>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+
+<form name="video_info"><input type="hidden" name="title" value="ENGL 291 - Lecture 8 - Prof. Amy Hungerford"></form>
+
