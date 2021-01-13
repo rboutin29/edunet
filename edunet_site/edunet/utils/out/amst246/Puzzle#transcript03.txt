@@ -1,0 +1,7 @@
+Hemingway's In Our Time, Part II-6:
+b'unity'##up#up## b'word'#down#up#down## b'jesus'#up#up#up## b'*'#down#down#down## b'experience'#up#up#up## b'life'#down#up### 
+b'*'##up#down#down# b'moment'#up#up#up#down# b'*'#down#down#down#down# b'man'#up#up#up#up# b'war'#down#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'story'#up#up#down#up# b'bull'#up#down#up#down# b'time'#down#down#down#down# b'question'#up#down##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'hemingway'#up#up#up#up# b'chapter'#down#up#down#up# b'elliot'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'kind'#up#up#down#up# b'something'#up#up#up#down# b'cat'#down#down#up#down# b'*'#down#down##down# 
+b'*'###down#up# b'tragedy'#up##up#up# b'comedy'#down##up#down# b'*'#down##down#down# b'picador'#up##up#up# b'horse'#down###up# 

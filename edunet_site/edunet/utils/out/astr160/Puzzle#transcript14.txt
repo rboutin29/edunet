@@ -1,0 +1,7 @@
+-6:
+b'relativity'##up#up## b'effects'#down#up#up## b'*'#down#down#down## b'professor'#up#down#up## b'*'#down#down#down## b'couple'#up#down### 
+b'*'##up#down#down# b'orbit'#up#up#up#down# b'center'#down#up#up#up# b'galaxies'#down#up#down#up# b'way'#up#up#up#up# b'eye'#down#down##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'mass'#up#up#up#down# b'galaxy'#down#up#up#down# b'light'#down#down#down#down# b'hole'#up#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'things'#up#up#down#down# b'effect'#up#down#down#up# b'kind'#up#up##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'thing'#up#up#up#up# b'redshift'#down#up#down#down# b'time'#up#up#up#up# b'*'#down#down##down# 
+b'*'###down#up# b'object'#up##down#up# b'clock'#up##down#down# b'objects'#up##down#down# b'period'#up##up#down# b'case'#down###up# 

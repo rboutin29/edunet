@@ -1,0 +1,7 @@
+-6:
+b'student'##up#down## b'disease'#up#up#up## b'*'#down#down#down## b'period'#up#down#up## b'*'#down#down#down## b'work'#up#up### 
+b'*'##up#down#down# b'cancer'#up#up#down#down# b'diseases'#up#up#up#up# b'transplant'#down#down#up#up# b'life'#down#up#down#up# b'something'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'example'#up#up#down#down# b'heart'#up#down#down#up# b'people'#up#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'things'#up#up#up#up# b'years'#down#up#up#down# b'engineers'#down#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'engineering'#up#up#down#up# b'course'#up#up#up#down# b'time'#down#up#down#down# b'materials'#up#up##down# 
+b'*'###down#up# b'way'#up##up#up# b'body'#down##up#down# b'picture'#down##up#down# b'device'#down##up#down# b'order'#down###down# 

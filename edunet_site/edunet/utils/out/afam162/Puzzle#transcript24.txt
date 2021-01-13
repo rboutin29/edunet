@@ -1,0 +1,7 @@
+Who Speaks for the Race?-6:
+b'time'##up#up## b'prop'#down#up#up## b'way'#down#up#up## b'*'#down#down#down## b'chronology'#up#down#up## b'policy'#down#up### 
+b'*'##up#down#down# b'california'#up#up#up#down# b'*'#down#down#down#down# b'lot'#up#up#down#up# b'course'#up#up#down#up# b'women'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'race'#up#up#up#up# b'people'#down#up#up#down# b'action'#down#down#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'rights'#up#up#up#down# b'law'#down#down#down#up# b'years'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'clinton'#up#up#up#up# b'proposition'#down#up#up#down# b'state'#down#up#up#up# b'*'#down#down##down# 
+b'*'###down#up# b'university'#up##up#up# b'*'#down##down#down# b'americans'#up##up#down# b'*'#down##down#down# b'court'#up###up# 

@@ -1,0 +1,7 @@
+-6:
+b'point'##up#up## b'patients'#down#up#up## b'*'#down#down#down## b'disease'#up#down#up## b'*'#down#down#down## b'lung'#up#up### 
+b'*'##up#down#down# b'kind'#up#up#down#down# b'stage'#up#up#down#up# b'cancers'#up#down#up#up# b'example'#down#up#down#up# b'colon'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'drug'#up#up#up#down# b'cells'#down#up#up#up# b'tissue'#down#up#down#down# b'surgeon'#up#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'cancer'#up#down#up#down# b'cell'#down#down#up#down# b'growth'#down#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'radiation'#up#up#up#up# b'body'#down#up#up#up# b'tumor'#down#down#up#up# b'*'#down#down##down# 
+b'*'###down#up# b'people'#up##down#up# b'way'#up##up#down# b'drugs'#down##up#down# b'time'#down##up#up# b'years'#down###up# 

@@ -1,0 +1,7 @@
+Reconstruction-6:
+b'lincoln'##up#up## b'plan'#down#up#up## b'*'#down#up#down## b'job'#up#up#up## b'contract'#down#down#up## b'freedmen'#down#up### 
+b'*'##up#down#down# b'south'#up#up#up#down# b'*'#down#down#down#up# b'year'#up#up#up#down# b'labor'#down#up#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'way'#up#up#up#up# b'black'#down#down#up#down# b'*'#down#down#down#down# b'bureau'#up#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'blacks'#up#down#up#up# b'government'#down#down#up#up# b'land'#down#up##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'reconstruction'#up#up#down#up# b'union'#up#up#down#up# b'governments'#up#down#up#up# b'*'#down#down##down# 
+b'*'###down#up# b'congress'#up##down#up# b'period'#up##up#down# b'*'#down##down#down# b'johnson'#up##up#up# b'change'#down###up# 

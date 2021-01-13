@@ -1,0 +1,7 @@
+Hemingway's For Whom the Bell Tolls, Part III-6:
+b'cobarde'##up#down## b'time'#up#up#down## b'life'#up#up#up## b'*'#down#down#down## b'bull'#up#down#up## b'finito'#down#down### 
+b'*'##up#down#down# b'earth'#up#up#up#down# b'*'#down#down#down#down# b'person'#up#down#up#up# b'way'#down#down#up#up# b'point'#down#down##up# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'fact'#up#up#up#up# b'kind'#down#down#down#up# b'people'#up#up#down#up# b'something'#up#up##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'hemingway'#up#up#up#up# b'pilar'#down#up#up#down# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'moment'#up#up#down#up# b'father'#up#down#up#down# b'robert'#down#up#down#down# b'century'#up#down##up# 
+b'*'###down#up# b'war'#up##up#up# b'cruelty'#down##up#down# b'description'#down##down#up# b'gun'#up##up#down# b'sense'#down###up# 

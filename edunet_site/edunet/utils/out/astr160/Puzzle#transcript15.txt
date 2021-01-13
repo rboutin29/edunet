@@ -1,0 +1,7 @@
+-6:
+b'way'##up#up## b'hours'#down#up#down## b'period'#up#up#up## b'reason'#down#up#up## b'*'#down#down#down## b'accretion'#up#up### 
+b'*'##up#down#down# b'time'#up#up#up#down# b'*'#down#down#down#down# b'amount'#up#up#down#down# b'kind'#up#down#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'thing'#up#up#down#up# b'mass'#up#up#up#down# b'object'#down#up#down#up# b'student'#up#down##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'things'#up#up#down#down# b'something'#up#down#down#down# b'years'#up#down##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'star'#up#up#up#up# b'holes'#down#up#up#down# b'stars'#down#up#down#up# b'sun'#up#up##up# 
+b'*'###down#up# b'telescope'#up##up#up# b'argument'#down##up#down# b'*'#down##down#down# b'radiation'#up##down#down# b'times'#up###down# 

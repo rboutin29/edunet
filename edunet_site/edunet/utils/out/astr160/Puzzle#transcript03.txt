@@ -1,0 +1,7 @@
+-6:
+b'people'##up#up## b'*'#down#down#down## b'mass'#up#up#up## b'distance'#down#up#up## b'objects'#down#up#down## b'velocity'#up#up### 
+b'*'##up#down#down# b'solar'#up#up#up#up# b'*'#down#down#down#down# b'star'#up#up#up#down# b'way'#down#up#down#down# b'orbit'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'system'#up#up#up#up# b'planets'#down#down#up#down# b'planet'#down#down#down#down# b'jupiter'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'things'#up#up#up#up# b'thing'#down#down#up#up# b'*'#down#down##down# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'problem'#up#down#up#up# b'pluto'#down#up#down#down# b'kind'#up#down#down#up# b'atmosphere'#up#down##up# 
+b'*'###down#up# b'something'#up##up#up# b'so'#down##up#up# b'*'#down##down#down# b'moon'#up##up#up# b'earth'#down###up# 

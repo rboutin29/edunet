@@ -1,0 +1,7 @@
+-6:
+b'system'##up#up## b'*'#down#down#down## b'pump'#up#down#down## b'proteins'#up#up#up## b'ions'#down#up#up## b'molecules'#down#up### 
+b'*'##up#down#down# b'av'#up#up#up#up# b'way'#down#down#down#up# b'membrane'#up#up#up#down# b'sodium'#down#up#down#down# b'membranes'#up#down##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'heart'#up#up#down#up# b'cell'#up#up#up#down# b'potassium'#down#up#up#down# b'activity'#down#down##up# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'action'#up#down#down#down# b'muscle'#up#down#down#down# b'calcium'#up#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'cells'#up#down#up#up# b'sa'#down#up#down#up# b'channels'#up#down#up#up# b'ion'#down#down##down# 
+b'*'###down#up# b'wave'#up##down#up# b'potential'#up##up#up# b'depolarization'#down##up#down# b'repolarization'#down##up#up# b'differences'#down###up# 

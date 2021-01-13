@@ -1,0 +1,7 @@
+-6:
+b'sort'##up#up## b'numbers'#down#down#up## b'time'#down#up#up## b'*'#down#down#down## b'%'#up#up#up## b'wimps'#down#up### 
+b'*'##up#down#down# b'kind'#up#up#up#up# b'thing'#down#down#down#down# b'light'#up#up#down#up# b'matter'#up#up#down#down# b'machos'#up#up##down# 
+b'*'##up#up#up# b'*'#up#up#down#down# b'universe'#up#up#up#up# b'things'#down#up#up#down# b'so'#down#up#down#down# b'right'#up#down##down# 
+b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'mass'#up#up#up#down# b'stars'#down#up#up#down# b'problem'#down#up##up# 
+b'*'##up#up#up# b'*'#up#down#down#up# b'galaxy'#up#up#up#up# b'sun'#down#down#down#down# b'galaxies'#up#up#up#down# b'*'#down#down##down# 
+b'*'###down#up# b'something'#up##down#up# b'magnitude'#up##up#down# b'brightness'#down##up#up# b'form'#down##up#down# b'answer'#down###up# 
