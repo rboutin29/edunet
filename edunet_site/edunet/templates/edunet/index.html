@@ -1,0 +1,44 @@
+{% extends 'edunet/base.html' %}
+
+{% block title %} Home {% endblock %}
+
+{% block header %} 
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+        <div class="container">
+            <h1 class="display-3">Welcome to the Educational Network</h1>
+            {% if user.is_authenticated %}
+                <p>Hey, {{ user.username }}, are you ready for enjoyable and efficient studying?</p>
+            {% else %}
+                <p>Login <a href="{% url 'login' %}">here.</a>&nbspNot a member? Signup <a href="{% url 'edunet:signup' %}">here.</a></p>
+            {% endif %}
+            <p><a class="btn btn-primary btn-lg" href="{% url 'edunet:help' %}" role="button">Learn more &raquo;</a></p>
+        </div>
+    </div>
+{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Tree of Knowledge</h2>
+                <p>The <i>Tree of Knowledge</i> consists of keywords extracted from a lecture. There are keywords extracted from the lecture as a whole and keywords extracted from each paragraph within the lecture transcript. The number of keywords can be chosen up to, but not exceeding ten.</p>
+                <p><a class="btn btn-secondary" href="{% url 'edunet:help' %}" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Puzzle of Knowledge</h2>
+                <p>The <i>Puzzle of Knowledge</i> allows for an interactive experience. The student must complete a puzzle with the pieces that are given. The pieces are keywords and the most important ones must be placed in the center. To complete the puzzle, the pieces must then be placed in an order that spirals out.</p>
+                <p><a class="btn btn-secondary" href="{% url 'edunet:help' %}" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Contributors</h2>
+                <p>EduNet would like to thank Fairfield University for developing and funding this project. We would also like to thank Yale University for supplying the online courses that are available on this site.</p>
+                <p><a class="btn btn-secondary" href="{% url 'edunet:contributors' %}" role="button">View details &raquo;</a></p>
+            </div>
+        </div>
+
+        <hr>
+
+    </div> <!-- /container -->
+{% endblock %}

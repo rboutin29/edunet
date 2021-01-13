@@ -1,7 +1,0 @@
--6:
-b'atrium'##up#up## b'ventricle'#down#up#down## b'line'#up#down#up## b'time'#down#down#up## b'*'#down#down#down## b'circulatory'#up#up### 
-b'*'##up#down#down# b'artery'#up#up#down#down# b'side'#up#down#down#up# b'rate'#up#down#up#up# b'aorta'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'flow'#up#up#up#up# b'pressure'#down#up#down#up# b'vessel'#up#up#up#down# b'muscle'#down#down##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'blood'#up#up#up#down# b'vessels'#down#up#up#down# b'nutrients'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'resistance'#up#down#down#up# b'system'#up#down#down#down# b'heart'#up#down#down#down# b'surface'#up#down##down# 
-b'*'###down#up# b'radius'#up##down#up# b'diameter'#up##down#up# b'physiology'#up##down#up# b'arteries'#up##up#up# b'branch'#down###up# 

@@ -1,7 +1,0 @@
-Fitzgerald's Short Stories-6:
-b'case'##up#down## b'someone'#up#up#up## b'bernice'#down#down#up## b'*'#down#down#down## b'nothing'#up#up#up## b'anson'#down#down### 
-b'*'##up#down#down# b'fact'#up#up#down#down# b'drama'#up#down#up#up# b'something'#down#down#up#up# b'way'#down#up#up#down# b'point'#down#up##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'kind'#up#up#up#up# b'types'#down#down#up#up# b'century'#down#down#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'fitzgerald'#up#up#up#up# b'relation'#down#up#down#up# b'lot'#up#down##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'story'#up#up#up#up# b'type'#down#down#up#down# b'future'#down#up#up#down# b'stories'#down#up##up# 
-b'*'###down#up# b'things'#up##up#up# b'life'#down##down#down# b'person'#up##up#up# b'*'#down##down#down# b'yale'#up###down# 

@@ -1,7 +1,0 @@
-Migration and Urbanization-6:
-b'urban'##up#up## b'*'#down#down#down## b'flux'#up#up#down## b'population'#up#up#up## b'*'#down#down#down## b'war'#up#up### 
-b'*'##up#down#down# b'factory'#up#up#up#up# b'jobs'#down#down#up#down# b'*'#down#down#down#down# b'people'#up#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'labor'#up#up#down#up# b'south'#up#down#up#up# b'north'#down#up#up#down# b'way'#down#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'blacks'#up#down#up#up# b'*'#down#down#down#down# b'chicago'#up#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'migration'#up#up#down#up# b'weeks'#up#up#down#up# b'couple'#up#down#up#up# b'*'#down#down##down# 
-b'*'###down#up# b'sort'#up##up#up# b'*'#down##up#down# b'*'#up##down#down# b'history'#up##down#up# b'film'#up###up# 

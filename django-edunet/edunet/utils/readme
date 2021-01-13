@@ -1,3 +1,0 @@
-In order to use the CourseInterpreter.py use a command line like:
-python3 CourseInterpreter.py -l http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/afam162/download/afam162.zip -np 2 -nl 2
-python3 CourseInterpreter.py -l http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/afam162/download/afam162.zip -np 2 -nl 2 -t 22

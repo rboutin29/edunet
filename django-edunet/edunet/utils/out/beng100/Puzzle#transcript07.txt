@@ -1,7 +1,0 @@
--6:
-b'communication'##up#down## b'kinds'#up#down#up## b'signals'#down#down#up## b'*'#down#down#down## b'proteins'#up#down#up## b'changes'#down#up### 
-b'*'##up#down#down# b'body'#up#up#up#up# b'receptors'#down#up#up#up# b'insulin'#down#up#up#up# b'protein'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'molecules'#up#up#up#down# b'cells'#down#down#up#down# b'signal'#down#up#up#down# b'blood'#down#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'cell'#up#up#up#up# b'receptor'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'system'#up#up#up#up# b'example'#down#up#up#down# b'ligand'#down#up#up#down# b'thing'#down#up##up# 
-b'*'###down#up# b'way'#up##up#up# b'systems'#down##up#down# b'*'#down##down#down# b'molecule'#up##up#down# b'enzyme'#down###down# 

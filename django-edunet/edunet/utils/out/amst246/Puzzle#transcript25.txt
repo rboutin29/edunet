@@ -1,7 +1,0 @@
-Faulkner's Light in August, Part IV-6:
-b'match'##up#up## b'*'#down#down#down## b'someone'#up#up#down## b'sense'#up#down#down## b'christmas'#up#up#up## b'faulkner'#down#down### 
-b'*'##up#down#down# b'shadow'#up#up#up#up# b'*'#down#down#down#down# b'decision'#up#down#down#up# b'god'#up#up#down#down# b'relation'#up#down##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'light'#up#up#up#up# b'moment'#down#up#up#up# b'*'#down#down#down#down# b'people'#up#down##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'joe'#up#up#down#down# b'august'#up#up#up#up# b'way'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'hightower'#up#up#down#up# b'brown'#up#up#up#down# b'night'#down#up#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'time'#up##up#up# b'doctor'#down##up#down# b'*'#down##down#down# b'key'#up##up#down# b'car'#down###up# 

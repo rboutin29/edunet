@@ -1,7 +1,0 @@
--6:
-b'question'##up#up## b'*'#down#down#down## b'analogy'#up#up#up## b'line'#down#down#up## b'*'#down#down#down## b'questions'#up#up### 
-b'*'##up#down#down# b'something'#up#up#up#up# b'way'#down#up#up#down# b'dimension'#down#up#down#up# b'bailyn'#up#up#up#up# b'yeah'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'point'#up#up#up#down# b'student'#down#down#up#down# b'okay'#down#up#up#down# b'so'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'universe'#up#up#up#up# b'thing'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'distance'#up#up#up#up# b'time'#down#down#up#down# b'professor'#down#down#down#down# b'things'#up#up##up# 
-b'*'###down#up# b'charles'#up##up#up# b'*'#down##down#down# b'velocity'#up##up#up# b'anything'#down##up#up# b'position'#down###down# 

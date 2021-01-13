@@ -1,7 +1,0 @@
--6:
-b'example'##up#down## b'acids'#up#up#up## b'*'#down#down#down## b'structures'#up#up#up## b'time'#down#up#up## b'sequence'#down#down### 
-b'*'##up#down#down# b'amino'#up#up#up#down# b'leucine'#down#up#down#up# b'molecule'#up#up#up#down# b'process'#down#up#down#down# b'chemistry'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'cells'#up#up#up#down# b'rna'#down#up#up#down# b'gene'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'dna'#up#up#up#down# b'protein'#down#up#up#down# b'again'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'base'#up#down#down#up# b'molecules'#up#up#up#down# b'cell'#down#up#down#down# b'things'#up#down##down# 
-b'*'###down#up# b'structure'#up##down#up# b'phosphate'#up##up#up# b'carbon'#down##down#down# b'way'#up##up#down# b'order'#down###up# 

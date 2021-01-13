@@ -1,7 +1,0 @@
--6:
-b'thing'##up#up## b'ways'#down#down#up## b'*'#down#down#down## b'ampicillin'#up#up#up## b'order'#down#up#up## b'genes'#down#up### 
-b'*'##up#down#down# b'resistance'#up#up#up#up# b'process'#down#down#down#up# b'cells'#up#down#down#down# b'cell'#up#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'rna'#up#up#up#up# b'gene'#down#up#up#up# b'way'#down#down#down#down# b'field'#up#down##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'dna'#up#up#up#down# b'example'#down#up#up#up# b'time'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'plasmid'#up#up#up#up# b'restriction'#down#down#down#down# b'sequence'#up#down#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'protein'#up##down#up# b'copies'#up##up#down# b'fragments'#down##up#up# b'one'#down##up#up# b'insulin'#down###up# 

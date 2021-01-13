@@ -1,7 +1,0 @@
--6:
-b'sound'##up#up## b'*'#down#down#down## b'regions'#up#up#up## b'tissue'#down#up#up## b'*'#down#down#down## b'atoms'#up#up### 
-b'*'##up#down#down# b'way'#up#up#up#up# b'body'#down#up#down#down# b'example'#up#down#up#down# b'time'#down#up#up#up# b'things'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'kind'#up#up#down#down# b'brain'#up#up#down#up# b'patient'#up#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'image'#up#down#down#down# b'field'#up#up#up#down# b'order'#down#down##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'images'#up#up#up#up# b'mr'#down#up#up#up# b'frequency'#down#down#up#down# b'radiation'#down#up##up# 
-b'*'###down#up# b'resonance'#up##up#up# b'people'#down##up#down# b'imaging'#down##up#down# b'fields'#down##up#up# b'radio'#down###down# 

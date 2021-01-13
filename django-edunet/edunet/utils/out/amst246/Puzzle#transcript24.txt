@@ -1,7 +1,0 @@
-Faulkner's Light in August, Part III-6:
-b'moment'##up#down## b'child'#up#up#up## b'calvin'#down#up#up## b'*'#down#down#down## b'license'#up#down#up## b'light'#down#down### 
-b'*'##up#down#down# b'kind'#up#up#down#down# b'joanna'#up#down#down#down# b'hightower'#up#up#down#up# b'faulkner'#up#up#up#up# b'someone'#down#up##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'race'#up#up#up#up# b'people'#down#up#up#down# b'way'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'word'#up#up#up#down# b'duress'#down#up#down#down# b'chapter'#up#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'joe'#up#up#down#up# b'nigger'#up#up#up#down# b'time'#down#up#down#down# b'burden'#up#up##down# 
-b'*'###down#up# b'face'#up##up#up# b'*'#down##down#down# b'curse'#up##up#down# b'blacks'#down##down#down# b'case'#up###down# 

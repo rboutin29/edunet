@@ -1,7 +1,0 @@
-Migration and Urbanization (continued)-6:
-b'country'##up#up## b'*'#down#down#down## b'sense'#up#up#up## b'*'#down#down#down## b'july'#up#down#up## b'east'#down#up### 
-b'*'##up#down#down# b'something'#up#up#down#up# b'mentality'#up#up#down#down# b'riots'#up#down#up#up# b'chicago'#down#up#down#up# b'louis'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'soldiers'#up#up#up#down# b'violence'#down#up#down#up# b'sort'#up#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'blacks'#up#up#up#down# b'*'#down#down#down#down# b'mckay'#up#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'americans'#up#up#down#up# b'rights'#up#up#up#down# b'citizens'#down#up#up#up# b'*'#down#down##down# 
-b'*'###down#up# b'france'#up##up#up# b'thing'#down##up#down# b'*'#down##down#down# b'people'#up##up#down# b'things'#down###up# 

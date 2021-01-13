@@ -1,7 +1,0 @@
--6:
-b'something'##up#up## b'*'#down#down#down## b'objects'#up#up#up## b'*'#down#down#down## b'stars'#up#up#up## b'sun'#down#up### 
-b'*'##up#down#down# b'earth'#up#up#up#up# b'solar'#down#down#up#down# b'system'#down#up#up#up# b'planet'#down#down#up#down# b'times'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'planets'#up#up#up#up# b'things'#down#up#down#down# b'distance'#up#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'velocity'#up#down#up#down# b'star'#down#down#down#down# b'way'#up#down##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'thing'#up#down#up#up# b'orbit'#down#down#up#up# b'motion'#down#up#up#up# b'jupiter'#down#up##up# 
-b'*'###down#up# b'meters'#up##up#up# b'wavelength'#down##up#up# b'kind'#down##up#up# b'*'#down##down#down# b'mass'#up###down# 

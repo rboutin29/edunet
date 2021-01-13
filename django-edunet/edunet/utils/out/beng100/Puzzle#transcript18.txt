@@ -1,7 +1,0 @@
--6:
-b'fluid'##up#up## b'*'#down#down#down## b'range'#up#up#up## b'*'#down#down#down## b'rate'#up#up#down## b'area'#up#up### 
-b'*'##up#down#down# b'rubber'#up#up#down#up# b'properties'#up#up#up#down# b'elasticity'#down#up#up#up# b'spring'#down#up#down#down# b'wall'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'materials'#up#up#up#down# b'force'#down#up#up#down# b'dashpot'#down#up#up#down# b'cylinder'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'material'#up#down#down#down# b'time'#up#down#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'way'#up#down#up#up# b'experiment'#down#up#down#up# b'deformation'#up#up#up#up# b'sense'#down#down##up# 
-b'*'###down#up# b'stress'#up##up#up# b'example'#down##up#up# b'weight'#down##up#down# b'length'#down##up#down# b'strain'#down###up# 

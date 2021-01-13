@@ -1,7 +1,0 @@
--6:
-b'carbon'##up#up## b'course'#down#up#up## b'*'#down#down#down## b'numbers'#up#up#up## b'*'#down#down#down## b'earth'#up#up### 
-b'*'##up#down#down# b'idea'#up#up#down#down# b'argument'#up#down#up#up# b'life'#down#down#down#down# b'anything'#up#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'things'#up#up#up#up# b'kind'#down#up#down#up# b'years'#up#up#down#down# b'theory'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'universe'#up#up#up#down# b'something'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'way'#up#up#up#up# b'science'#down#up#up#down# b'time'#down#up#down#down# b'nature'#up#down##up# 
-b'*'###down#up# b'set'#up##down#up# b'so'#up##up#down# b'*'#down##down#down# b'universes'#up##up#down# b'laws'#down###up# 

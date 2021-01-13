@@ -1,7 +1,0 @@
--6:
-b'proteins'##up#down## b'host'#up#down#up## b'*'#down#down#down## b'concepts'#up#up#up## b'*'#down#down#down## b'membrane'#up#up### 
-b'*'##up#down#down# b'signal'#up#up#down#up# b'kind'#up#down#down#up# b'things'#up#up#down#down# b'antigens'#up#down#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'system'#up#up#up#up# b'cell'#down#down#up#down# b'response'#down#up#up#up# b'antibody'#down#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'cells'#up#up#up#up# b'antigen'#down#up#down#down# b'region'#up#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'antibodies'#up#down#up#up# b'immune'#down#down#down#down# b'molecules'#up#up#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'action'#up##down#up# b'time'#up##down#up# b'way'#up##up#up# b'body'#down##down#down# b'virus'#up###up# 

@@ -1,7 +1,0 @@
-Hemingway's For Whom the Bell Tolls, Part IV-6:
-b'chapter'##up#up## b'*'#down#down#down## b'life'#up#up#up## b'*'#down#down#down## b'person'#up#down#down## b'point'#up#down### 
-b'*'##up#down#down# b'\xe2\x80\x99'#up#up#up#up# b'pablo'#down#up#up#down# b'people'#down#up#up#up# b'fact'#down#up#up#up# b'leg'#down#down##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'time'#up#up#up#down# b'maria'#down#up#up#down# b'dispossession'#down#up#down#down# b'novel'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'robert'#up#up#up#down# b'way'#down#up#down#down# b'something'#up#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'hemingway'#up#up#down#up# b'end'#up#down#down#down# b'case'#up#up#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'rape'#up##up#up# b'hair'#down##up#down# b'nothing'#down##up#up# b'*'#down##down#down# b'mirror'#up###up# 

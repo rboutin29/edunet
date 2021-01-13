@@ -1,7 +1,0 @@
--6:
-b'sort'##up#down## b'survey'#up#up#down## b'galaxy'#up#up#up## b'*'#down#down#down## b'works'#up#down#up## b'answer'#down#up### 
-b'*'##up#down#down# b'so'#up#up#up#down# b'redshift'#down#up#down#down# b'time'#up#up#down#up# b'energy'#up#up#down#up# b'gravity'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'way'#up#up#up#down# b'things'#down#up#up#down# b'matter'#down#up#up#down# b'stuff'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'universe'#up#down#up#down# b'density'#down#up#up#down# b'perturbations'#down#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'cosmic'#up#up#up#up# b'background'#down#down#up#up# b'galaxies'#down#up#up#down# b'structure'#down#down##down# 
-b'*'###down#up# b'kind'#up##up#up# b'*'#down##down#down# b'microwave'#up##up#up# b'*'#down##down#down# b'something'#up###up# 

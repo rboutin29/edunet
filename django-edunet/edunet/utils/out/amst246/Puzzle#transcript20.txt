@@ -1,7 +1,0 @@
-Fitzgerald's Tender Is the Night-6:
-b'string'##up#up## b'pearls'#down#down#up## b'*'#down#down#down## b'time'#up#up#up## b'*'#down#down#down## b'superimposition'#up#down### 
-b'*'##up#down#down# b'relation'#up#up#down#up# b'adjectives'#up#up#up#up# b'*'#down#down#down#down# b'montage'#up#down#down#up# b'chapter'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'kind'#up#up#down#down# b'novel'#up#down#down#up# b'people'#up#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'fitzgerald'#up#down#up#up# b'way'#down#down#up#down# b'world'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'nicole'#up#down#up#up# b'fact'#down#down#down#up# b'war'#up#up#up#up# b'*'#down#down##down# 
-b'*'###down#up# b'love'#up##down#up# b'rosemary'#up##up#up# b'room'#down##down#up# b'something'#up##up#down# b'detail'#down###up# 

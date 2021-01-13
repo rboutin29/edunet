@@ -1,7 +1,0 @@
--6:
-b'region'##up#up## b'adult'#down#up#up## b'*'#down#down#down## b'differentiation'#up#down#up## b'*'#down#down#down## b'bone'#up#up### 
-b'*'##up#down#down# b'brain'#up#up#up#down# b'example'#down#up#down#up# b'proteins'#up#up#down#up# b'kinds'#up#down#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'stem'#up#up#up#down# b'cell'#down#up#up#down# b'time'#down#down#down#up# b'course'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'cells'#up#up#up#down# b'division'#down#down#up#up# b'number'#down#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'process'#up#down#up#up# b'blood'#down#down#down#down# b'way'#up#up#up#up# b'*'#down#down##down# 
-b'*'###down#up# b'dna'#up##up#up# b'differences'#down##up#up# b'development'#down##up#up# b'difference'#down##up#down# b'genes'#down###up# 

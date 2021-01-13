@@ -1,7 +1,0 @@
--6:
-b'femur'##up#down## b'part'#up#down#up## b'bone'#down#up#down## b'structure'#up#up#down## b'way'#up#up#up## b'body'#down#up### 
-b'*'##up#down#down# b'hip'#up#up#up#up# b'*'#down#down#down#down# b'pelvis'#up#up#down#down# b'leg'#up#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'wings'#up#up#up#up# b'motion'#down#up#down#down# b'ground'#up#up#down#down# b'object'#up#down##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'force'#up#up#up#down# b'order'#down#up#down#down# b'legs'#up#down##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'energy'#up#up#up#up# b'speed'#down#up#up#down# b'air'#down#up#down#down# b'something'#up#up##up# 
-b'*'###down#up# b'foot'#up##down#up# b'things'#up##up#down# b'lift'#down##down#down# b'bird'#up##up#down# b'lot'#down###down# 

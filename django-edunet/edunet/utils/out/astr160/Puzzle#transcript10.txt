@@ -1,7 +1,0 @@
--6:
-b'effect'##up#down## b'earth'#up#down#down## b'case'#up#up#down## b'gamma'#up#down#down## b'approximation'#up#up#down## b'term'#up#up### 
-b'*'##up#down#down# b'something'#up#up#up#up# b'velocity'#down#down#up#down# b'energy'#down#down#up#up# b'way'#down#down#up#down# b'rest'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'student'#up#up#up#up# b'speed'#down#up#down#up# b'bailyn'#up#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'mass'#up#up#down#down# b'time'#up#up#down#down# b'factor'#up#down##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'thing'#up#up#down#up# b'question'#up#up#up#down# b'professor'#down#down#down#down# b'/'#up#up##up# 
-b'*'###down#up# b'things'#up##up#up# b'force'#down##down#down# b'kind'#up##up#down# b'equation'#down##up#up# b'v2'#down###down# 

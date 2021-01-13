@@ -1,7 +1,0 @@
--6:
-b'times'##up#up## b'*'#down#down#down## b'center'#up#up#down## b'thing'#up#up#up## b'*'#down#down#down## b'things'#up#up### 
-b'*'##up#down#down# b'orbit'#up#up#up#up# b'surface'#down#down#up#down# b'gravity'#down#up#down#down# b'density'#up#up#down#up# b'balance'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'something'#up#up#down#up# b'pressure'#up#up#up#down# b'*'#down#down#down#down# b'stars'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'star'#up#up#up#down# b'radius'#down#up#up#up# b'schwarzschild'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'mass'#up#up#up#up# b'so'#down#up#up#down# b'escape'#down#down#down#down# b'object'#up#up##up# 
-b'*'###down#up# b'kind'#up##down#up# b'sun'#up##up#down# b'holes'#down##up#down# b'concept'#down##up#up# b'way'#down###down# 

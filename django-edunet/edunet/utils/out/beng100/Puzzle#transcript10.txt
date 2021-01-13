@@ -1,7 +1,0 @@
--6:
-b'exposure'##up#up## b'population'#down#up#up## b'*'#down#down#down## b'terms'#up#up#up## b'*'#down#down#down## b'hepatitis'#up#up### 
-b'*'##up#down#down# b'antibodies'#up#up#up#down# b'class'#down#up#down#up# b'quantities'#up#up#up#down# b'antibody'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'cells'#up#up#up#down# b'virus'#down#up#up#down# b'response'#down#up#up#down# b'case'#down#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'vaccine'#up#up#up#down# b'antigen'#down#up#up#down# b'host'#down#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'polio'#up#up#up#up# b'disease'#down#up#up#down# b'people'#down#down#up#down# b'cell'#down#up##down# 
-b'*'###down#up# b'time'#up##down#up# b'period'#up##up#down# b'*'#down##down#down# b'so'#up##up#up# b'cases'#down###down# 
