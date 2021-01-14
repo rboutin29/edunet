@@ -1,7 +1,0 @@
-Hemingway's For Whom the Bell Tolls-6:
-b'chapter'##up#down## b'english'#up#up#up## b'*'#down#down#down## b'hemingway'#up#up#up## b'*'#down#down#down## b'bell'#up#down### 
-b'*'##up#down#down# b'future'#up#up#up#down# b'relation'#down#down#down#up# b'novel'#up#down#up#down# b'kind'#down#down#down#up# b'way'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'people'#up#up#up#up# b'robert'#down#down#up#up# b'gun'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'war'#up#down#up#up# b'*'#down#down#down#down# b'foreigners'#up#down##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'language'#up#up#down#up# b'name'#up#down#up#up# b'foreigner'#down#down#down#up# b'association'#up#up##up# 
-b'*'###down#up# b'civil'#up##up#up# b'*'#down##down#down# b'pablo'#up##up#up# b'kashkin'#down##up#up# b'fact'#down###down# 

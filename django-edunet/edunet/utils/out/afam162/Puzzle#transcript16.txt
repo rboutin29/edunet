@@ -1,7 +1,0 @@
-From Voting Rights to Watts-6:
-b'bullet'##up#down## b'ballot'#up#down#up## b'*'#down#down#down## b'child'#up#up#up## b'*'#down#down#down## b'king'#up#up### 
-b'*'##up#down#down# b'speech'#up#up#down#up# b'muhammad'#up#up#up#up# b'*'#down#down#down#down# b'mississippi'#up#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'elijah'#up#up#down#down# b'nation'#up#up#up#up# b'*'#down#down#down#down# b'people'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'malcolm'#up#up#up#down# b'sorry'#down#up#up#up# b'*'#down#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'time'#up#up#down#up# b'x'#up#up#up#down# b'martin'#down#up#up#down# b'*'#down#down##up# 
-b'*'###down#up# b'freedom'#up##up#up# b'*'#down##down#down# b'life'#up##up#down# b'*'#down##down#down# b'blacks'#up###up# 

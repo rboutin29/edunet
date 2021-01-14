@@ -1,7 +1,0 @@
--6:
-b'data'##up#up## b'dark'#down#down#up## b'*'#down#down#down## b'groups'#up#up#up## b'*'#down#down#down## b'dwarf'#up#up### 
-b'*'##up#down#down# b'something'#up#up#up#up# b'okay'#down#down#up#up# b'thing'#down#down#down#down# b'kind'#up#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'universe'#up#up#down#up# b'time'#up#up#down#up# b'supernovae'#up#up#down#down# b'magnitude'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'things'#up#up#up#down# b'redshift'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'energy'#up#up#up#up# b'so'#down#down#up#down# b'matter'#down#up#up#down# b'line'#down#down##up# 
-b'*'###down#up# b'amount'#up##up#up# b'stuff'#down##up#down# b'star'#down##up#up# b'*'#down##down#down# b'way'#up###up# 

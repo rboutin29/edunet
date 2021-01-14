@@ -1,7 +1,0 @@
-The Politics of Gender and Culture-6:
-b'time'##up#down## b']'#up#down#up## b'*'#down#down#down## b'marvin'#up#down#down## b'something'#up#up#down## b'country'#up#up### 
-b'*'##up#down#down# b'woman'#up#up#up#up# b'course'#down#down#down#up# b'moment'#up#up#up#up# b'*'#down#down#down#down# b'way'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'shaft'#up#up#up#up# b'movie'#down#down#down#down# b'beginning'#up#down#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'man'#up#down#up#up# b'fact'#down#up#up#up# b'album'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'people'#up#up#up#up# b'blaxploitation'#down#down#down#up# b'black'#up#up#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'professor'#up##up#up# b'*'#down##down#down# b'song'#up##up#up# b'*'#down##down#down# b'foxy'#up###up# 

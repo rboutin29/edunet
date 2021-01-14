@@ -1,7 +1,0 @@
--6:
-b'virus'##up#up## b'*'#down#down#down## b'things'#up#up#up## b'*'#down#down#down## b'heart'#up#up#down## b'way'#up#up### 
-b'*'##up#down#down# b'ways'#up#up#up#up# b'time'#down#up#up#down# b'process'#down#up#up#up# b'blood'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'gene'#up#up#down#down# b'cell'#up#up#up#down# b'body'#down#down#up#down# b'picture'#down#down##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'cells'#up#up#up#down# b'order'#down#up#up#up# b'function'#down#down##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'dna'#up#up#down#up# b'example'#up#up#down#down# b'tissue'#up#down#up#down# b'property'#down#up##up# 
-b'*'###down#up# b'viruses'#up##up#up# b'copies'#down##up#down# b'*'#down##down#down# b'protein'#up##down#up# b'case'#up###down# 

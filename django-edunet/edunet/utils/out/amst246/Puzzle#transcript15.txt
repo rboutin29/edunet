@@ -1,7 +1,0 @@
-Faulkner's As I Lay Dying, Part III-6:
-b'something'##up#up## b'*'#down#down#down## b'dell'#up#down#up## b'*'#down#down#down## b'name'#up#down#up## b'sense'#down#up### 
-b'*'##up#down#down# b'back'#up#up#up#up# b'dewey'#down#down#down#up# b'vardaman'#up#up#down#up# b'anse'#up#up#up#up# b'addie'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'jewel'#up#up#up#up# b'darl'#down#up#up#down# b'have'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'cash'#up#up#up#down# b'moment'#down#up#up#down# b'hester'#down#down##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'kind'#up#down#down#up# b'way'#up#up#down#down# b'faulkner'#up#up#up#down# b'whitfield'#down#up##up# 
-b'*'###down#up# b'kinship'#up##up#up# b'bond'#down##up#up# b'*'#down##down#down# b'hemingway'#up##down#down# b'horse'#up###down# 

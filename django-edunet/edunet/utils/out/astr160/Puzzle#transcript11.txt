@@ -1,7 +1,0 @@
--6:
-b'*'##up#down## b'charles'#up#up#up## b'*'#down#down#down## b'professor'#up#down#up## b'*'#down#down#down## b'clocks'#up#down### 
-b'*'##up#down#up# b'bailyn'#up#up#up#down# b'relativity'#down#up#up#up# b'theory'#down#down#up#up# b'force'#down#down#up#up# b'so'#down#down##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'einstein'#up#up#down#down# b'way'#up#up#up#up# b'distance'#down#up#down#up# b'line'#up#down##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'time'#up#up#up#down# b'earth'#down#up#up#down# b'something'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'things'#up#down#up#up# b'thing'#down#down#up#down# b'mass'#down#down#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'space'#up##up#up# b'motion'#down##up#up# b'kind'#down##down#up# b'gravity'#up##down#up# b'student'#up###up# 

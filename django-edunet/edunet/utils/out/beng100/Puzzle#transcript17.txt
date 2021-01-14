@@ -1,7 +1,0 @@
--6:
-b'reabsorption'##up#up## b'place'#down#up#up## b'example'#down#up#up## b'*'#down#down#down## b'cell'#up#up#down## b'time'#up#up### 
-b'*'##up#down#down# b'filtration'#up#up#down#down# b'body'#up#down#up#down# b'blood'#down#down#up#up# b'lot'#down#down#up#down# b'things'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'water'#up#up#down#up# b'sodium'#up#down#up#up# b'molecules'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'kidney'#up#up#up#up# b'urine'#down#up#up#down# b'diagram'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'concentration'#up#down#down#up# b'glomerulus'#up#down#down#down# b'tubule'#up#up#up#down# b'sort'#down#up##down# 
-b'*'###down#up# b'tubules'#up##up#up# b'cells'#down##down#up# b'properties'#up##up#up# b'*'#down##down#down# b'filtrate'#up###down# 

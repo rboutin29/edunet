@@ -1,7 +1,0 @@
-Faulkner's The Sound and the Fury, Part III-6:
-b'kind'##up#up## b'car'#down#up#up## b'*'#down#down#down## b'phrase'#up#down#up## b'*'#down#down#down## b'york'#up#up### 
-b'*'##up#down#down# b'something'#up#up#up#down# b'town'#down#up#down#up# b'strangers'#up#down#up#up# b'people'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'time'#up#up#up#down# b'world'#down#up#up#up# b'*'#down#down#down#down# b'sense'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'jason'#up#up#down#down# b'benjy'#up#up#down#up# b'battle'#up#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'quentin'#up#up#down#up# b'way'#up#up#up#down# b'faulkner'#down#up#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'new'#up##down#up# b'parties'#up##up#down# b'*'#down##down#down# b'sound'#up##up#down# b'fury'#down###up# 

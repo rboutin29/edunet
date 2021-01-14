@@ -1,7 +1,0 @@
-Faulkner's The Sound and the Fury-6:
-b'water'##up#down## b'point'#up#down#up## b'*'#down#down#down## b'demand'#up#up#up## b'*'#down#down#down## b'people'#up#up### 
-b'*'##up#down#down# b'paper'#up#up#up#up# b'moment'#down#up#up#up# b'time'#down#up#up#down# b'so'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'faulkner'#up#up#up#down# b'caddy'#down#up#up#down# b'something'#down#down#up#down# b'tenderness'#down#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'benjy'#up#up#up#down# b'story'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'way'#up#down#up#up# b'innocence'#down#down#up#down# b'sense'#down#up#down#down# b'phrase'#up#down##up# 
-b'*'###down#up# b'sound'#up##down#up# b'smell'#up##up#up# b'step'#down##up#up# b'*'#down##down#down# b'trees'#up###up# 

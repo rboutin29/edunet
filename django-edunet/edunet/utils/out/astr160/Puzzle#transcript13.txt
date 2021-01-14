@@ -1,7 +1,0 @@
--6:
-b'sort'##up#down## b'time'#up#down#up## b'things'#down#up#up## b'*'#down#down#down## b'part'#up#up#down## b'point'#up#up### 
-b'*'##up#down#down# b'bailyn'#up#up#up#up# b'radius'#down#up#up#down# b'sun'#down#up#up#up# b'way'#down#down#down#down# b'hole'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'student'#up#up#down#down# b'light'#up#up#up#down# b'energy'#down#up#down#up# b'so'#up#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'object'#up#up#up#down# b'mass'#down#up#up#down# b'okay'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'schwarzschild'#up#up#down#up# b'thing'#up#up#up#down# b'professor'#down#up#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'charles'#up##up#up# b'*'#down##down#down# b'effect'#up##up#down# b'*'#down##down#down# b'einstein'#up###up# 

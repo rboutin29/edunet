@@ -1,7 +1,0 @@
-Black Power (continued)-6:
-b'order'##up#down## b'riot'#up#down#down## b'march'#up#up#up## b'*'#down#down#up## b'*'#up#down#down## b'movement'#up#up### 
-b'*'##up#down#down# b'city'#up#up#up#up# b'*'#down#down#down#down# b'namesake'#up#down#up#up# b'time'#down#down#up#up# b'lot'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'way'#up#up#up#up# b'chicago'#down#up#up#up# b'sake'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'king'#up#up#up#down# b'rights'#down#up#up#down# b'leaders'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'people'#up#up#down#up# b'sncc'#up#up#down#down# b'leadership'#up#down#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'war'#up##up#up# b'*'#down##down#down# b'black'#up##down#down# b'carmichael'#up##up#up# b'country'#down###up# 

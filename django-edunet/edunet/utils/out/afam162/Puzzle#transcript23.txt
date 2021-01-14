@@ -1,7 +1,0 @@
-Public Policy and Presidential Politics (continued)-6:
-b'time'##up#up## b'*'#down#down#down## b'history'#up#down#up## b'police'#down#up#up## b'*'#down#down#down## b'couple'#up#up### 
-b'*'##up#down#down# b'dukakis'#up#up#down#up# b'campaign'#up#up#up#up# b'*'#down#down#down#down# b'way'#up#up#down#up# b'woman'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'politics'#up#up#down#down# b'race'#up#up#up#up# b'*'#down#down#down#down# b'central'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'people'#up#down#down#down# b'angeles'#up#up#down#up# b'los'#up#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'bush'#up#up#down#up# b'fact'#up#down#down#up# b'years'#up#up#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'crime'#up##up#up# b'*'#down##down#down# b'script'#up##up#up# b'*'#down##down#down# b'stuart'#up###up# 

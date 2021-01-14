@@ -1,7 +1,0 @@
-Hemingway's For Whom the Bell Tolls, Part II-6:
-b'community'##up#down## b'life'#up#up#up## b'grandfather'#down#up#up## b'*'#down#down#down## b'nature'#up#up#up## b'invocation'#down#down### 
-b'*'##up#down#down# b'maria'#up#up#up#down# b'*'#down#down#down#down# b'day'#up#down#down#up# b'people'#up#up#down#down# b'things'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'moors'#up#up#down#up# b'something'#up#up#up#up# b'environment'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'robert'#up#down#down#down# b'gypsies'#up#up#down#down# b'chapter'#up#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'kind'#up#up#up#up# b'home'#down#up#up#up# b'hemingway'#down#up#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'locals'#up##down#up# b'connotation'#up##up#down# b'*'#down##down#down# b'sense'#up##down#down# b'song'#up###up# 

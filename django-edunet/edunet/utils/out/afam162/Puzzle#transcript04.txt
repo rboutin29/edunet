@@ -1,7 +1,0 @@
-Reconstruction (continued)-6:
-b'violence'##up#up## b'vote'#down#up#down## b'ways'#up#up#up## b'*'#down#down#down## b'records'#up#up#down## b'moment'#up#up### 
-b'*'##up#down#down# b'era'#up#up#up#down# b'*'#down#down#down#down# b'victims'#up#down#up#up# b'lynchings'#down#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'way'#up#up#up#up# b'blacks'#down#down#up#up# b'*'#down#down#down#down# b'male'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'south'#up#up#up#up# b'rape'#down#up#down#up# b'womanhood'#up#up##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'new'#up#down#down#up# b'answer'#up#up#down#down# b'lynching'#up#down#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'people'#up##down#up# b'store'#up##up#up# b'*'#down##down#down# b'women'#up##up#up# b'men'#down###up# 

@@ -1,7 +1,0 @@
-Hemingway's To Have and Have Not, Part II-6:
-b'bank'##up#up## b'time'#down#down#up## b'*'#down#down#down## b'boat'#up#down#up## b'*'#down#down#down## b'months'#up#up### 
-b'*'##up#down#down# b'politics'#up#up#down#up# b'macro'#up#down#down#up# b'chapter'#up#up#down#up# b'novel'#up#down#up#up# b'case'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'have'#up#up#down#up# b'hemingway'#up#up#down#down# b'way'#up#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'harry'#up#down#up#down# b'marie'#down#up#up#down# b'eagerness'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'kind'#up#up#up#up# b'man'#down#up#down#up# b'woman'#up#down#down#down# b'type'#up#down##down# 
-b'*'###down#up# b'point'#up##up#up# b'something'#down##up#down# b'*'#down##down#down# b'moment'#up##up#up# b'life'#down###up# 

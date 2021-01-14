@@ -1,7 +1,0 @@
--6:
-b'laws'##up#down## b'newton'#up#up#up## b'equation'#down#up#down## b'sun'#up#down#up## b'times'#down#up#up## b'earth'#down#up### 
-b'*'##up#down#down# b'theory'#up#up#up#down# b'so'#down#up#up#down# b'way'#down#up#down#up# b'something'#up#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'things'#up#up#up#down# b'kind'#down#down#up#down# b'questions'#down#up#down#down# b'side'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'course'#up#up#up#up# b'problem'#down#down#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'science'#up#down#up#up# b'math'#down#down#down#down# b'thing'#up#up#up#up# b'fact'#down#up##up# 
-b'*'###down#up# b'class'#up##up#up# b'sections'#down##down#up# b'grade'#up##up#up# b'*'#down##down#down# b'planets'#up###down# 

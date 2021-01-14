@@ -1,7 +1,0 @@
--6:
-b'student'##up#up## b'deceleration'#down#up#up## b'*'#down#down#down## b'data'#up#up#up## b'*'#down#down#down## b'line'#up#up### 
-b'*'##up#down#down# b'matter'#up#up#down#down# b'point'#up#down#up#up# b'kind'#down#up#up#down# b'thing'#down#up#up#up# b'past'#down#up##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'energy'#up#up#up#up# b'time'#down#up#down#down# b'points'#up#up#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'universe'#up#down#down#down# b'way'#up#up#up#down# b'question'#down#up##up# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'redshift'#up#up#down#up# b'things'#up#up#up#up# b'space'#down#up#up#down# b'*'#down#down##down# 
-b'*'###down#up# b'supernovae'#up##up#up# b'something'#down##down#down# b'density'#up##up#down# b'*'#down##down#down# b'dark'#up###up# 

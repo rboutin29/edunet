@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.environ['SECRET_KEY']
+SECRET_KEY = 'iefy%@nm&k$+^mlp1_50kpn6m!npw3*$#a(g4pwt5@%vkk7-c_adk29'
 
 # Transmit cookies over https only and not http
 CSRF_COOKIE_SECURE = True

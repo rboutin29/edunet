@@ -1,7 +1,0 @@
-Who Speaks for the Race? (continued)-6:
-b'image'##up#down## b'magazine'#up#up#down## b'time'#up#up#up## b'*'#down#down#down## b'hour'#up#down#up## b'moment'#down#down### 
-b'*'##up#down#down# b'things'#up#up#up#down# b'*'#down#down#down#down# b'day'#up#down#up#up# b'obama'#down#up#up#up# b'office'#down#up##up# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'course'#up#up#up#up# b'way'#down#up#up#up# b'*'#down#down#down#down# b'uncle'#up#up##down# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'people'#up#down#up#down# b'years'#down#up#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'race'#up#up#up#up# b'history'#down#down#down#up# b'rights'#up#down#up#down# b'act'#down#up##up# 
-b'*'###down#up# b'something'#up##down#up# b'speech'#up##up#down# b'nation'#down##down#up# b'americans'#up##down#up# b'moments'#up###down# 

@@ -1,7 +1,0 @@
-Black Power-6:
-b'america'##up#up## b'*'#down#down#down## b'group'#up#up#up## b'*'#down#down#up## b'*'#up#down#down## b'things'#up#up### 
-b'*'##up#down#down# b'panther'#up#up#up#up# b'*'#down#down#down#down# b'just'#up#up#down#up# b'police'#up#down#up#up# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#up#down#down# b'black'#up#up#up#up# b'people'#down#down#up#down# b'years'#down#up#down#up# b'course'#up#up##up# 
-b'*'##up#up#up# b'*'#up#up#up#up# b'*'#up#down#down#down# b'panthers'#up#up#down#up# b'jail'#up#down#up#down# b'*'#down#down##down# 
-b'*'##up#up#up# b'*'#up#down#down#up# b'moment'#up#down#up#up# b'sncc'#down#up#up#down# b'carmichael'#down#up#down#up# b'symbol'#up#down##up# 
-b'*'###down#up# b'way'#up##up#up# b'ways'#down##up#up# b'*'#down##down#down# b'march'#up##down#down# b'june'#up###up# 
