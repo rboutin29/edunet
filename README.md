@@ -27,3 +27,5 @@ that is not needed for the site yet
 
 - This site works when the edunet application is within the site folder. The process of making a resuable application has
 not been finished for the edunet app (tree and puzzle of knowledge)
+
+- Security key is hardcoded and present in the github repository
