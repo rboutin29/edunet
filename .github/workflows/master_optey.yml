@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'optey'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_92dcf0c98fe840d69a9fba4c93d0d7f5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8c8b0cf5fd834f91b9267f2314eda59d }}
