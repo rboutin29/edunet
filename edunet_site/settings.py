@@ -20,25 +20,13 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'iefy%@nm&k$+^mlp1_50kpn6m!npw3*$#a(g4pwt5@%vkk7-c_adk29'
-
-# Transmit cookies over https only and not http
-CSRF_COOKIE_SECURE = True
-
-# Secure session cookies
-SESSION_COOKIE_SECURE = True
-
-# Protect user privacy
-SECURE_REFERRER_POLICY = 'same-origin'
-
-# Only allow redirections from https
-SECURE_SSL_REDIRECT = True
+SECRET_KEY = 'iefy%@nm&k$+^mlp1_50kpn6m!npw3*$#a(g4pwt5@%vkk7-c_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 # Django site can serve
-ALLOWED_HOSTS = ['testserver', '127.0.0.1', 'www.google.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
