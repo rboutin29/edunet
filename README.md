@@ -22,10 +22,11 @@ lecture to process
 each lecture. If the words are arbitrarily long then they won't show up completely on the image because it is hardcoded. The
 image is then loaded into an html page based on the course chosen and then broken into square puzzle pieces using javascript
 
-- For deployment, the SECURE_HSTS_SECONDS settings in django is left as default because this deals with complex security
-that is not needed for the site yet
+- The website is currently still in development mode, i.e., debug = true
 
 - This site works when the edunet application is within the site folder. The process of making a resuable application has
 not been finished for the edunet app (tree and puzzle of knowledge)
 
 - Security key is hardcoded and present in the github repository
+
+- Make sure to ssh download apt-get install -y libglib2.0-0 libsm6 libxrender1 libxext6 for cv2 imports when redeploying
