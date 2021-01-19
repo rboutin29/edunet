@@ -42,7 +42,6 @@
             <p><a href="{% url 'edunet:tk_form' department.department_slug course.course_slug %}">Click here to submit a tree transcript form request with your desired keywords.</a></p>
         {% else %}
             <p>No processed lectures available</p>
-            <p><a href="{% url 'edunet:course_processor' department.department_slug course.course_slug %}">Click here to process courses, this may take a minute.</a></p>
         {% endif %}
     {% else %}
         <p>Please <a href="{% url 'edunet:signup' %}">signup</a> or <a href="{% url 'login' %}">login</a> to use the EduNet features.</p>

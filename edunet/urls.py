@@ -28,7 +28,6 @@ urlpatterns = [
     path('departments/', views.DepartmentListView.as_view(), name='departments'),
     path('<slug:department_slug>/', views.course_list, name='course_list'),
     path('<slug:department_slug>/<slug:course_slug>/', views.course_detail, name='course_detail'),
-    path('<slug:department_slug>/<slug:course_slug>/course-processor', views.course_processor, name='course_processor'), # pylint: disable=line-too-long
     path('<slug:department_slug>/<slug:course_slug>/tree-form/', views.tk_form, name='tk_form'),
     path('<slug:department_slug>/<slug:course_slug>/<int:transcript_num>-tree/', views.tk_view, name='tk_view'), # pylint: disable=line-too-long
     path('<slug:department_slug>/<slug:course_slug>/<int:transcript_num>-puzzle/', views.pz_view, name='pz_view'), # pylint: disable=line-too-long

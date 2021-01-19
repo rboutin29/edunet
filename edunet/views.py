@@ -195,6 +195,7 @@ def pz_view(request, department_slug, course_slug, transcript_num):
     }
     return render(request, 'edunet/pz.html', context)
 
+"""
 @login_required
 def course_processor(request, department_slug, course_slug):
     '''
@@ -206,8 +207,13 @@ def course_processor(request, department_slug, course_slug):
         'department': Department.objects.get(department_slug=department_slug),
         'course': Course.objects.get(course_slug=course_slug),
     }
-
     return render(request, 'edunet/course_processor.html', context)
+
+# for course detail template
+<!--<p><a href="{% url 'edunet:course_processor' department.department_slug course.course_slug %}">Click here to process courses, this may take a minute.</a></p>-->
+# for url.py
+path('<slug:department_slug>/<slug:course_slug>/course-processor', views.course_processor, name='course_processor'), # pylint: disable=line-too-long
+"""
 
 def pdf_view(request):
     '''Return a pdf for the user to view.'''
