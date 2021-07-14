@@ -40,15 +40,20 @@ Functions:
 '''
 import os
 import glob
+
+'''
 import textwrap
 import cv2
 import numpy as np
+'''
 
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
+'''
 from ..models import TreeOfKnowledge, PuzzleOfKnowledge
 from .course_processor import course_processor
+'''
 
 def get_course_number_link_format(course):
     '''Function takes course and returns the course number in a format suitable for a link.'''
@@ -59,6 +64,7 @@ def get_course_number_link_format(course):
         course_number_upper = course.course_number.replace(' ', '') # remove spaces
         course_number = course_number_upper.lower() # lowercase number for link
     return course_number
+
 
 def get_course_link(course):
     '''Function takes course and returns the link to get the course form the Yale website.'''
@@ -78,6 +84,7 @@ def get_course_link(course):
         link = start_of_link + course_season + '/' + course_number + '/download/' + course_number + '.zip' # pylint: disable=line-too-long
 
     return link
+
 
 def get_tree_dict(tree_list):
     '''Gets a list and returns a dictionary specifically adapted for the Tree of Knowledge.'''
@@ -116,6 +123,7 @@ def get_tree_dict(tree_list):
         line_num += 1
     return tree_dict
 
+
 def get_tree_of_knowledge(course, transcript):
     '''
     Function takes course and transcript number and returns
@@ -133,6 +141,7 @@ def get_tree_of_knowledge(course, transcript):
     tree_dict = get_tree_dict(tree)
 
     return tree_dict
+
 
 def get_puzzle_dict(puzzle_list):
     '''Gets a list and returns a dictionary specifically adapted for the Puzzle of Knowledge.'''
@@ -157,43 +166,6 @@ def get_puzzle_dict(puzzle_list):
         row_num += 1
     return puzzle_dict
 
-def get_puzzle_of_knowledge(course, transcipt):
-    '''
-    Function takes course and transcript number and returns
-    an dictionary containing the Puzzle of Knowledge and saves
-    an image containing the puzzle of knowledge.
-    '''
-    course_number = get_course_number_link_format(course)
-    if transcipt < 10:
-        transcipt_num = '0' + str(transcipt)
-    else:
-        transcipt_num = str(transcipt)
-    puzzle_file = 'edunet/utils/out/' + course_number + "/Puzzle#transcript" + transcipt_num + '.txt' # pylint: disable=line-too-long
-
-    with open(puzzle_file, 'r') as file:
-        puzzle = file.readlines()
-    puzzle_dict = get_puzzle_dict(puzzle)
-    # Generate image and save to static files
-    puzzle = generate_puzzle(puzzle_dict)
-    puzzle_path = 'edunet/static/edunet/images/puzzle_' + course_number
-    if not os.path.isdir(puzzle_path):
-        os.mkdir(puzzle_path) # create new directory to save puzzle images
-    puzzle_path = puzzle_path + "/Puzzle#transcript" + transcipt_num + '.jpg' # pylint: disable=line-too-long
-    print('Saving puzzle image...' + str(cv2.imwrite(puzzle_path, puzzle))) # pylint: disable=no-member
-    # Return dictionary of puzzle words for admin
-    return puzzle_dict
-
-def save_data_to_database(course, transcript):
-    '''
-    Takes a course and transcript and saves the Tree of Knowledge and
-    Puzzle of Knowledge for the particalar transcript in the database.
-    Does not override existing Trees of Knowledge and Puzzles of
-    Knowledge for the same transcript.
-    '''
-    tok = get_tree_of_knowledge(course, transcript)
-    pok = get_puzzle_of_knowledge(course, transcript)
-    TreeOfKnowledge(course=course, transcript_num=transcript, tree_of_knowledge=tok).save()
-    PuzzleOfKnowledge(course=course, transcript_num=transcript, puzzle_of_knowledge=pok).save()
 
 def get_transcript_num(course):
     '''Takes a course and returns the number of available transcripts to be processed.'''
@@ -207,10 +179,12 @@ def get_transcript_num(course):
     course_transcripts = glob.glob(os.path.join(course_transcripts_path_list[0], '*'))
     return len(course_transcripts)
 
+
 def validate_transcript_num(value, course):
     '''Takes a course and transcript number and validates that the specific transcript exists.'''
     transcript_num = get_transcript_num(course)
     return 0 < value < transcript_num
+
 
 def retrieve_tree_of_knowledge(kpp, kpl, transcript, course):
     '''
@@ -242,25 +216,9 @@ def retrieve_tree_of_knowledge(kpp, kpl, transcript, course):
         i += 1
     return new_tok
 
-def process_courses(course):
-    '''Takes a course and processes and saves all the lectures in it.'''
-    link = get_course_link(course)
-    kpl = 10
-    kpp = 10
-    puzz_dim = 6
-    course_processor(link, kpl, kpp, puzz_dim)
-    transcipt_num = get_transcript_num(course)
 
-    # Handle exception for HSAR
-    if course.course_number == 'HSAR 252':
-        transcipt_num = 23
-
-    print('Total transcripts: ' + str(transcipt_num))
-    i = 1
-    while i <= transcipt_num:
-        print("Saving lecture " + str(i))
-        save_data_to_database(course, i)
-        i += 1
+"""
+Only used for processing new lectures
 
 def generate_puzzle(puzzle_dict):
     '''Generates an 6x6 puzzle of keywords.'''
@@ -306,6 +264,68 @@ def generate_puzzle(puzzle_dict):
         i += 1
     return whiteblankimage
 
+
+def get_puzzle_of_knowledge(course, transcipt):
+    '''
+    Function takes course and transcript number and returns
+    an dictionary containing the Puzzle of Knowledge and saves
+    an image containing the puzzle of knowledge.
+    '''
+    course_number = get_course_number_link_format(course)
+    if transcipt < 10:
+        transcipt_num = '0' + str(transcipt)
+    else:
+        transcipt_num = str(transcipt)
+    puzzle_file = 'edunet/utils/out/' + course_number + "/Puzzle#transcript" + transcipt_num + '.txt' # pylint: disable=line-too-long
+
+    with open(puzzle_file, 'r') as file:
+        puzzle = file.readlines()
+    puzzle_dict = get_puzzle_dict(puzzle)
+    # Generate image and save to static files
+    puzzle = generate_puzzle(puzzle_dict)
+    puzzle_path = 'edunet/static/edunet/images/puzzle_' + course_number
+    if not os.path.isdir(puzzle_path):
+        os.mkdir(puzzle_path) # create new directory to save puzzle images
+    puzzle_path = puzzle_path + "/Puzzle#transcript" + transcipt_num + '.jpg' # pylint: disable=line-too-long
+    # print('Saving puzzle image...' + str(cv2.imwrite(puzzle_path, puzzle))) # pylint: disable=no-member
+    # Return dictionary of puzzle words for admin
+    return puzzle_dict
+
+
+def save_data_to_database(course, transcript):
+    '''
+    Takes a course and transcript and saves the Tree of Knowledge and
+    Puzzle of Knowledge for the particalar transcript in the database.
+    Does not override existing Trees of Knowledge and Puzzles of
+    Knowledge for the same transcript.
+    '''
+    tok = get_tree_of_knowledge(course, transcript)
+    pok = get_puzzle_of_knowledge(course, transcript)
+    TreeOfKnowledge(course=course, transcript_num=transcript, tree_of_knowledge=tok).save()
+    PuzzleOfKnowledge(course=course, transcript_num=transcript, puzzle_of_knowledge=pok).save()
+
+
+def process_courses(course):
+    '''Takes a course and processes and saves all the lectures in it.'''
+    link = get_course_link(course)
+    kpl = 10
+    kpp = 10
+    puzz_dim = 6
+    course_processor(link, kpl, kpp, puzz_dim)
+    transcipt_num = get_transcript_num(course)
+
+    # Handle exception for HSAR
+    if course.course_number == 'HSAR 252':
+        transcipt_num = 23
+
+    print('Total transcripts: ' + str(transcipt_num))
+    i = 1
+    while i <= transcipt_num:
+        print("Saving lecture " + str(i))
+        save_data_to_database(course, i)
+        i += 1
+"""
+
 def get_lecture_titles(course):
     '''
     Function takes course and returns
@@ -328,6 +348,7 @@ def get_lecture_titles(course):
         transcript += 1
     return titles
 
+
 def create_dict_from_two_list(list1, list2):
     '''
     Function takes numbers from list1 and puts them as the
@@ -345,6 +366,7 @@ def create_dict_from_two_list(list1, list2):
             dictionary.update({list1[i]: list2[i]})
         i += 1
     return dictionary
+
 
 def get_puzzle_title(course, transcipt):
     '''
